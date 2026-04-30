@@ -140,8 +140,17 @@ use a wide variety of numbers — spread across the full valid range for this le
   const parsed = JSON.parse(match[0]);
   if (!Array.isArray(parsed)) throw new Error("expected array");
 
+  const BAD_PHRASES = ["not valid", "invalid", "cannot", "note:", "avoid", "instead", "excluded", "example"];
+
   return parsed
-    .filter((q) => typeof q.text === "string" && typeof q.answer === "number")
+    .filter((q) => {
+      if (typeof q.text !== "string" || typeof q.answer !== "number") return false;
+      if (q.answer <= 0) return false;
+      if (q.text.length < 6 || q.text.length > 250) return false;
+      const lower = q.text.toLowerCase();
+      if (BAD_PHRASES.some((p) => lower.includes(p))) return false;
+      return true;
+    })
     .map((q) => ({ text: q.text, answer: q.answer, timerSeconds }));
 }
 

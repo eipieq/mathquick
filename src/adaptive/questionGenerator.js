@@ -108,7 +108,7 @@ rules:
 respond with ONLY a JSON array: [{"text":"...","answer":42}, ...]`;
 
   const avoidNote = avoidTexts.length > 0
-    ? `\nalready used — do not repeat or closely resemble:\n${avoidTexts.map((t) => `- ${t}`).join("\n")}`
+    ? `\ndo not generate any of these questions or ones that closely resemble them:\n${avoidTexts.map((t) => `- ${t}`).join("\n")}`
     : "";
 
   const userPrompt = mode === "situational"
@@ -148,7 +148,16 @@ use a wide variety of numbers — spread across the full valid range for this le
   const parsed = JSON.parse(match[0]);
   if (!Array.isArray(parsed)) throw new Error("expected array");
 
+  const BAD_PHRASES = ["not valid", "invalid", "cannot", "note:", "avoid", "instead", "excluded", "example"];
+
   return parsed
-    .filter((q) => typeof q.text === "string" && typeof q.answer === "number")
+    .filter((q) => {
+      if (typeof q.text !== "string" || typeof q.answer !== "number") return false;
+      if (q.answer <= 0) return false;
+      if (q.text.length < 6 || q.text.length > 250) return false;
+      const lower = q.text.toLowerCase();
+      if (BAD_PHRASES.some((p) => lower.includes(p))) return false;
+      return true;
+    })
     .map((q) => ({ text: q.text, answer: q.answer, skillKey, level, timerSeconds }));
 }
