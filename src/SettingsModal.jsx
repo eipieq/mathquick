@@ -44,7 +44,13 @@ function Toggle({ checked, onChange }) {
   );
 }
 
-export default function SettingsModal({ settings, onUpdate, onClose }) {
+const DIFFICULTY_LEVELS = [
+  { key: "beginner",     label: "easier",      sub: "single digit basics" },
+  { key: "intermediate", label: "medium",       sub: "multi-digit, multiplication" },
+  { key: "advanced",     label: "harder",       sub: "all skills, hard levels" },
+];
+
+export default function SettingsModal({ settings, onUpdate, onClose, onPlaceLearner }) {
   return (
     <div
       style={styles.overlay}
@@ -60,6 +66,31 @@ export default function SettingsModal({ settings, onUpdate, onClose }) {
         </div>
 
         <div style={styles.divider} />
+
+        {/* difficulty section */}
+        {onPlaceLearner && (
+          <>
+            <div style={styles.section}>
+              <div>
+                <p style={styles.label}>difficulty</p>
+                <p style={styles.sub}>resets your progress to a new starting point</p>
+              </div>
+              <div style={styles.diffRow}>
+                {DIFFICULTY_LEVELS.map((d) => (
+                  <button
+                    key={d.key}
+                    onClick={() => { onPlaceLearner(d.key); onClose(); }}
+                    style={styles.diffBtn}
+                  >
+                    <span style={styles.diffBtnLabel}>{d.label}</span>
+                    <span style={styles.diffBtnSub}>{d.sub}</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div style={styles.divider} />
+          </>
+        )}
 
         {/* timer section */}
         <div style={styles.section}>
@@ -217,5 +248,35 @@ const styles = {
     color: "var(--text-tertiary)",
     letterSpacing: "-0.01em",
     lineHeight: 1.5,
+  },
+  diffRow: {
+    display: "flex",
+    gap: "6px",
+  },
+  diffBtn: {
+    flex: 1,
+    display: "flex",
+    flexDirection: "column",
+    gap: "2px",
+    padding: "10px 10px",
+    borderRadius: "var(--radius-md)",
+    border: "1.5px solid var(--border)",
+    background: "var(--surface)",
+    cursor: "pointer",
+    textAlign: "left",
+    transition: "border-color 0.15s ease, background 0.15s ease",
+  },
+  diffBtnLabel: {
+    fontSize: "0.8125rem",
+    fontWeight: 800,
+    color: "var(--text-primary)",
+    letterSpacing: "-0.02em",
+  },
+  diffBtnSub: {
+    fontSize: "0.6875rem",
+    fontWeight: 500,
+    color: "var(--text-tertiary)",
+    letterSpacing: "-0.01em",
+    lineHeight: 1.4,
   },
 };

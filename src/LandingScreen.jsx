@@ -49,6 +49,7 @@ export default function LandingScreen() {
           settings={settings}
           onUpdate={update}
           onClose={() => setShowSettings(false)}
+          onPlaceLearner={placeLearner}
         />
       )}
 
