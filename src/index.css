@@ -290,20 +290,11 @@ button:disabled { cursor: not-allowed; opacity: 0.4; }
 @media (max-width: 600px) {
   .landing-hero {
     flex-direction: column !important;
-    align-items: center !important;
-    text-align: center;
+    align-items: flex-start !important;
   }
   .landing-hero-image {
-    width: clamp(100px, 40vw, 160px) !important;
-  }
-  .landing-hero-content {
-    align-items: center;
-  }
-  .landing-badge {
-    align-self: center !important;
-  }
-  .landing-modes {
-    flex-direction: column !important;
+    width: clamp(160px, 55vw, 260px) !important;
+    align-self: center;
   }
   .landing-bottom {
     flex-direction: column !important;

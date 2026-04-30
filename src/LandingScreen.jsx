@@ -59,13 +59,13 @@ export default function LandingScreen() {
           <img
             src="/homepage.png"
             alt="frog knight"
-            style={styles.heroImage}
+            style={{ ...styles.heroImage, paddingTop: "clamp(8px, 2vw, 16px)", paddingBottom: "clamp(8px, 2vw, 16px)" }}
             className="landing-hero-image"
           />
 
           <div style={styles.heroContent} className="stagger landing-hero-content">
             <p style={styles.badge} className="landing-badge">audio-first math trainer</p>
-            <h1 style={styles.title}>Hear it.<br />Solve it.</h1>
+            <h1 style={styles.title}>Hear it. Solve it.</h1>
             <p style={styles.tagline}>
               no peeking. no reading. just mental math under pressure.
             </p>
