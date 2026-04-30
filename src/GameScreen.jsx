@@ -370,6 +370,7 @@ export default function GameScreen() {
                     id="answer-input"
                     ref={inputRef}
                     type="number"
+                    inputMode="numeric"
                     placeholder="your answer..."
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
