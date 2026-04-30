@@ -1,6 +1,6 @@
 import { useState, useCallback } from "react";
 import { fsrs, Rating } from "ts-fsrs";
-import { DEFAULT_LEARNER, applyAttemptResult, applyFsrsCard } from "./learnerModel.js";
+import { DEFAULT_LEARNER, createPlacedLearner, applyAttemptResult, applyFsrsCard } from "./learnerModel.js";
 
 const STORAGE_KEY = "mq_learner_v1";
 const f = fsrs();
@@ -56,5 +56,13 @@ export function useLearner() {
     setLearner(fresh);
   }, []);
 
-  return { learner, recordAttempt, resetLearner };
+  const placeLearner = useCallback((placement) => {
+    const placed = createPlacedLearner(placement);
+    save(placed);
+    setLearner(placed);
+  }, []);
+
+  const hasExistingState = !!localStorage.getItem(STORAGE_KEY);
+
+  return { learner, recordAttempt, resetLearner, placeLearner, hasExistingState };
 }

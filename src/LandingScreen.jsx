@@ -4,6 +4,13 @@ import { Headphones, Brain, Lightning, GlobeStand, ArrowSquareOut, GearSix } fro
 import NavBar from "./NavBar";
 import SettingsModal from "./SettingsModal.jsx";
 import { useSettings } from "./useSettings.js";
+import { useLearner } from "./adaptive/useLearner.js";
+
+const PLACEMENTS = [
+  { key: "beginner",     label: "just starting",  sub: "single digit basics" },
+  { key: "intermediate", label: "pretty good",     sub: "multi-digit, multiplication" },
+  { key: "advanced",     label: "bring it on",     sub: "all skills, hard levels" },
+];
 
 const HOW_IT_WORKS = [
   { icon: Headphones, title: "listen", desc: "questions are read aloud" },
@@ -15,6 +22,13 @@ export default function LandingScreen() {
   const navigate = useNavigate();
   const { settings, update } = useSettings();
   const [showSettings, setShowSettings] = useState(false);
+  const { hasExistingState, placeLearner } = useLearner();
+  const [placement, setPlacement] = useState("intermediate");
+
+  function handlePlay(mode) {
+    if (!hasExistingState) placeLearner(placement);
+    navigate(`/play/${mode}`);
+  }
 
   return (
     <div style={{ display: "flex", flexDirection: "column", flex: 1 }}>
@@ -55,11 +69,33 @@ export default function LandingScreen() {
               no peeking. no reading. just mental math under pressure.
             </p>
 
+            {/* placement picker — shown only on first visit */}
+            {!hasExistingState && (
+              <div style={styles.placementSection}>
+                <p style={styles.placementLabel}>starting level</p>
+                <div style={styles.placementRow}>
+                  {PLACEMENTS.map((p) => {
+                    const active = placement === p.key;
+                    return (
+                      <button
+                        key={p.key}
+                        onClick={() => setPlacement(p.key)}
+                        style={{ ...styles.placementBtn, ...(active ? styles.placementBtnActive : {}) }}
+                      >
+                        <span style={{ ...styles.placementBtnLabel, ...(active ? { color: "var(--accent)" } : {}) }}>{p.label}</span>
+                        <span style={styles.placementBtnSub}>{p.sub}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
             {/* mode buttons in a row */}
             <div style={styles.modes} className="landing-modes" role="group" aria-label="Game modes">
               <button
                 style={{ ...styles.modeBtn, ...styles.situationalBtn }}
-                onClick={() => navigate("/play/situational")}
+                onClick={() => handlePlay("situational")}
               >
                 <GlobeStand size={24} weight="fill" style={{ opacity: 0.85, flexShrink: 0 }} />
                 <div style={styles.modeMeta}>
@@ -70,7 +106,7 @@ export default function LandingScreen() {
 
               <button
                 style={{ ...styles.modeBtn, ...styles.directBtn }}
-                onClick={() => navigate("/play/direct")}
+                onClick={() => handlePlay("direct")}
               >
                 <Lightning size={24} weight="fill" color="var(--icon-default)" style={{ flexShrink: 0 }} />
                 <div style={styles.modeMeta}>
@@ -210,6 +246,53 @@ const styles = {
     fontSize: "0.75rem",
     fontWeight: 500,
     color: "rgba(255,255,255,0.7)",
+    letterSpacing: "-0.01em",
+  },
+  placementSection: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "8px",
+  },
+  placementLabel: {
+    fontSize: "0.6875rem",
+    fontWeight: 700,
+    color: "var(--text-tertiary)",
+    letterSpacing: "0.06em",
+    textTransform: "uppercase",
+  },
+  placementRow: {
+    display: "flex",
+    gap: "6px",
+    flexWrap: "wrap",
+  },
+  placementBtn: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "2px",
+    padding: "8px 12px",
+    borderRadius: "var(--radius-md)",
+    border: "1.5px solid var(--border)",
+    background: "var(--surface)",
+    cursor: "pointer",
+    textAlign: "left",
+    flex: 1,
+    minWidth: "90px",
+    transition: "border-color 0.15s ease, background 0.15s ease",
+  },
+  placementBtnActive: {
+    borderColor: "var(--accent)",
+    background: "var(--accent-subtle)",
+  },
+  placementBtnLabel: {
+    fontSize: "0.8125rem",
+    fontWeight: 800,
+    color: "var(--text-primary)",
+    letterSpacing: "-0.02em",
+  },
+  placementBtnSub: {
+    fontSize: "0.6875rem",
+    fontWeight: 500,
+    color: "var(--text-tertiary)",
     letterSpacing: "-0.01em",
   },
   settingsBtn: {
