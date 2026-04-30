@@ -1,0 +1,4397 @@
+{
+  "direct:add:1": [
+    {
+      "text": "Three plus seven",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Five plus eight",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Nine plus four",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus three",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Seven plus six",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Eight plus five",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Four plus nine",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus eight",
+      "answer": 14,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Five plus seven",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Eight plus three",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus five",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Four plus eight",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Three plus nine",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus four",
+      "answer": 10,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:add:2": [
+    {
+      "text": "twenty eight plus six",
+      "answer": 34,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty four plus three",
+      "answer": 47,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty two plus nine",
+      "answer": 41,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty five plus eight",
+      "answer": 33,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty seven plus four",
+      "answer": 51,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty nine plus five",
+      "answer": 34,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty eight plus seven",
+      "answer": 45,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty two plus six",
+      "answer": 48,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty eight plus eight",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty seven plus nine",
+      "answer": 46,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty five plus six",
+      "answer": 31,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty eight plus four",
+      "answer": 52,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty two plus seven",
+      "answer": 39,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:add:3": [
+    {
+      "text": "twenty seven plus seventy nine",
+      "answer": 106,
+      "timerSeconds": 25
+    },
+    {
+      "text": "forty three plus fifty nine",
+      "answer": 102,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy one plus twenty eight",
+      "answer": 99,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty four plus thirty seven",
+      "answer": 101,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty two plus sixty nine",
+      "answer": 121,
+      "timerSeconds": 25
+    },
+    {
+      "text": "thirty eight plus forty six",
+      "answer": 84,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventeen plus seventy five",
+      "answer": 92,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty two plus fifty one",
+      "answer": 113,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is forty seven plus sixty two",
+      "answer": 109,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty nine plus seventy five",
+      "answer": 104,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is fifty eight plus thirty six",
+      "answer": 94,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is sixty nine plus forty two",
+      "answer": 111,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is seventy eight plus twenty five",
+      "answer": 103,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is thirty four plus sixty one",
+      "answer": 95,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is forty three plus fifty nine",
+      "answer": 102,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:add:4": [
+    {
+      "text": "two hundred and seventeen plus eighty two",
+      "answer": 299,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred and ninety five plus twenty seven",
+      "answer": 522,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred and eighty seven plus forty nine",
+      "answer": 236,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred and ninety eight plus sixty one",
+      "answer": 359,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred and seventeen plus thirty eight",
+      "answer": 455,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred and forty two plus seventy nine",
+      "answer": 221,
+      "timerSeconds": 20
+    },
+    {
+      "text": "three hundred and sixty four plus fifty six",
+      "answer": 420,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred and fifty nine plus twenty three",
+      "answer": 282,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred seventeen plus eighty one",
+      "answer": 298,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred forty seven plus twenty nine",
+      "answer": 476,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred sixty three plus seventy four",
+      "answer": 237,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred ninety eight plus fifty two",
+      "answer": 350,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred ninety five plus sixty eight",
+      "answer": 263,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred nineteen plus thirty seven",
+      "answer": 456,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred thirty seven plus eighty nine",
+      "answer": 326,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:add:5": [
+    {
+      "text": "What is four hundred eighty seven plus six hundred twelve?",
+      "answer": 1099,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is two hundred seventy five plus five hundred ninety eight?",
+      "answer": 1273,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is six hundred forty two plus two hundred fifty nine?",
+      "answer": 901,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is one hundred ninety seven plus six hundred seventy three?",
+      "answer": 870,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is five hundred thirty two plus four hundred seventeen?",
+      "answer": 949,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is three hundred eighty five plus six hundred twenty one?",
+      "answer": 1006,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is two hundred forty eight plus five hundred seventy six?",
+      "answer": 824,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is six hundred ninety eight plus two hundred sixty seven?",
+      "answer": 965,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is four hundred ninety two plus six hundred seventeen",
+      "answer": 1109,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is two hundred seventy nine plus five hundred ninety one",
+      "answer": 870,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is one hundred ninety eight plus six hundred forty two",
+      "answer": 840,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is six hundred thirteen plus two hundred eighty five",
+      "answer": 898,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is four hundred seventy one plus five hundred ninety eight",
+      "answer": 969,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is two hundred forty seven plus six hundred thirty two",
+      "answer": 879,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is five hundred ninety two plus three hundred seventy one",
+      "answer": 963,
+      "timerSeconds": 15
+    }
+  ],
+  "direct:sub:1": [
+    {
+      "text": "eight minus four",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "nine minus five",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seven minus three",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "nine minus six",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "eight minus five",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seven minus two is not valid since two is not between three and nine, so seven minus four",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six minus three",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "eight minus three",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seven minus four",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "nine minus three",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six minus two",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seven minus two",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six minus four",
+      "answer": 2,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:sub:2": [
+    {
+      "text": "forty seven minus five",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seventy nine minus two",
+      "answer": 77,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty eight minus four",
+      "answer": 34,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty two minus eight",
+      "answer": 44,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty nine minus three",
+      "answer": 66,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty three minus six",
+      "answer": 37,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seventy five minus seven",
+      "answer": 68,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty nine minus five",
+      "answer": 54,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seventy nine minus eight",
+      "answer": 71,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty six minus three",
+      "answer": 23,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty two minus four",
+      "answer": 58,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty nine minus six",
+      "answer": 53,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty eight minus two",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seventy four minus seven",
+      "answer": 67,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty three minus five",
+      "answer": 38,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:sub:3": [
+    {
+      "text": "forty seven minus nineteen",
+      "answer": 28,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eighty nine minus thirty four",
+      "answer": 55,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty two minus twenty eight",
+      "answer": 24,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy one minus forty three",
+      "answer": 28,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty three minus twenty nine",
+      "answer": 34,
+      "timerSeconds": 25
+    },
+    {
+      "text": "thirty seven minus fourteen",
+      "answer": 23,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eighty two minus forty nine",
+      "answer": 33,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty nine minus twenty six",
+      "answer": 33,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty eight minus twenty six",
+      "answer": 32,
+      "timerSeconds": 25
+    },
+    {
+      "text": "thirty nine minus fourteen",
+      "answer": 25,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eighty three minus forty nine",
+      "answer": 34,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty four minus twenty eight",
+      "answer": 36,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy eight minus thirty seven",
+      "answer": 41,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:sub:4": [
+    {
+      "text": "four hundred seventy two minus sixty three",
+      "answer": 409,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred fifty nine minus forty two",
+      "answer": 217,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred eighteen minus seventy nine",
+      "answer": 339,
+      "timerSeconds": 20
+    },
+    {
+      "text": "three hundred ninety five minus twenty eight",
+      "answer": 367,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred eighty seven minus fifty one",
+      "answer": 236,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred sixty two minus thirty seven",
+      "answer": 425,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred thirteen minus seventy four",
+      "answer": 139,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred ninety minus eighty five",
+      "answer": 305,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred sixty seven minus sixty nine",
+      "answer": 398,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred fifty eight minus forty two",
+      "answer": 216,
+      "timerSeconds": 20
+    },
+    {
+      "text": "three hundred seventy one minus twenty nine",
+      "answer": 342,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred twenty two minus seventy eight",
+      "answer": 344,
+      "timerSeconds": 20
+    },
+    {
+      "text": "two hundred eighty five minus fifty one",
+      "answer": 234,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four hundred fifteen minus sixty three",
+      "answer": 352,
+      "timerSeconds": 20
+    },
+    {
+      "text": "three hundred ninety eight minus forty seven",
+      "answer": 351,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:sub:5": [
+    {
+      "text": "eight hundred sixty seven minus four hundred ninety two",
+      "answer": 375,
+      "timerSeconds": 15
+    },
+    {
+      "text": "seven hundred nineteen minus two hundred eighty five",
+      "answer": 434,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred thirty minus five hundred seventy nine",
+      "answer": 151,
+      "timerSeconds": 15
+    },
+    {
+      "text": "six hundred forty eight minus three hundred seventy one",
+      "answer": 277,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred ninety eight minus four hundred sixty seven",
+      "answer": 431,
+      "timerSeconds": 15
+    },
+    {
+      "text": "five hundred ninety two minus three hundred eighteen",
+      "answer": 274,
+      "timerSeconds": 15
+    },
+    {
+      "text": "seven hundred sixty two minus four hundred fifteen",
+      "answer": 347,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred twenty nine minus five hundred ninety one",
+      "answer": 238,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred sixty seven minus four hundred seventy nine",
+      "answer": 388,
+      "timerSeconds": 15
+    },
+    {
+      "text": "seven hundred thirteen minus two hundred ninety five",
+      "answer": 418,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred twenty one minus six hundred seven",
+      "answer": 214,
+      "timerSeconds": 15
+    },
+    {
+      "text": "six hundred eighty two minus four hundred fifty eight",
+      "answer": 224,
+      "timerSeconds": 15
+    },
+    {
+      "text": "five hundred ninety one minus three hundred seventy two",
+      "answer": 219,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eight hundred ninety eight minus five hundred thirty one",
+      "answer": 367,
+      "timerSeconds": 15
+    },
+    {
+      "text": "seven hundred fifty six minus four hundred twenty nine",
+      "answer": 327,
+      "timerSeconds": 15
+    }
+  ],
+  "direct:mul:1": [
+    {
+      "text": "What is eight times five",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is two times nine",
+      "answer": 18,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is ten times three",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is five times seven",
+      "answer": 35,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is four times ten",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is two times eight",
+      "answer": 16,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is nine times five",
+      "answer": 45,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is six times ten",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is three times ten",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is nine times two",
+      "answer": 18,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is six times five",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is seven times two",
+      "answer": 14,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:mul:2": [
+    {
+      "text": "three times seven",
+      "answer": 21,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six times eight",
+      "answer": 48,
+      "timerSeconds": 30
+    },
+    {
+      "text": "four times nine",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seven times six",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "eight times four",
+      "answer": 32,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six times three",
+      "answer": 18,
+      "timerSeconds": 30
+    },
+    {
+      "text": "nine times three",
+      "answer": 27,
+      "timerSeconds": 30
+    },
+    {
+      "text": "four times six",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is seven times six",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is eight times three",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is four times nine",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is six times eight",
+      "answer": 48,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is nine times four",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is six times five",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is three times seven",
+      "answer": 21,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:mul:3": [
+    {
+      "text": "eight times eight",
+      "answer": 64,
+      "timerSeconds": 25
+    },
+    {
+      "text": "nine times six",
+      "answer": 54,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seven times nine",
+      "answer": 63,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eight times five",
+      "answer": 40,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seven times eight",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "nine times seven",
+      "answer": 63,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eight times nine",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seven times six",
+      "answer": 42,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eight times seven",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "nine times eight",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "nine times five",
+      "answer": 45,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:mul:4": [
+    {
+      "text": "What is eleven times nine",
+      "answer": 99,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twelve times eight",
+      "answer": 96,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twelve times seven",
+      "answer": 84,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is eleven times six",
+      "answer": 66,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is eleven times five",
+      "answer": 55,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twelve times nine",
+      "answer": 108,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twelve times four",
+      "answer": 48,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is eleven times ten",
+      "answer": 110,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is eleven times seven",
+      "answer": 77,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twelve times five",
+      "answer": 60,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:mul:5": [
+    {
+      "text": "twenty seven times eight",
+      "answer": 216,
+      "timerSeconds": 15
+    },
+    {
+      "text": "fourteen times nine",
+      "answer": 126,
+      "timerSeconds": 15
+    },
+    {
+      "text": "nineteen times six",
+      "answer": 114,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty three times five",
+      "answer": 115,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty six times four",
+      "answer": 104,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty two times seven",
+      "answer": 154,
+      "timerSeconds": 15
+    },
+    {
+      "text": "sixteen times eight",
+      "answer": 128,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty five times three",
+      "answer": 75,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty seven times four",
+      "answer": 108,
+      "timerSeconds": 15
+    },
+    {
+      "text": "nineteen times eight",
+      "answer": 152,
+      "timerSeconds": 15
+    },
+    {
+      "text": "sixteen times seven",
+      "answer": 112,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty five times six",
+      "answer": 150,
+      "timerSeconds": 15
+    },
+    {
+      "text": "twenty eight times three",
+      "answer": 84,
+      "timerSeconds": 15
+    },
+    {
+      "text": "eighteen times nine",
+      "answer": 162,
+      "timerSeconds": 15
+    }
+  ],
+  "direct:div:1": [
+    {
+      "text": "twenty four divided by two",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty divided by ten",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty divided by five",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty eight divided by two",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty divided by ten",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty divided by two",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty five divided by five",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixteen divided by two",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twelve divided by two",
+      "answer": 6,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:div:2": [
+    {
+      "text": "sixty eight divided by four",
+      "answer": 17,
+      "timerSeconds": 30
+    },
+    {
+      "text": "thirty six divided by three",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "forty eight divided by six",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty divided by six",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty two divided by four",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "seventy two divided by six",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "twenty four divided by four",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "fifty four divided by six",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty divided by four",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty six divided by three",
+      "answer": 22,
+      "timerSeconds": 30
+    },
+    {
+      "text": "sixty four divided by four",
+      "answer": 16,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:div:3": [
+    {
+      "text": "seventy two divided by nine",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "forty nine divided by seven",
+      "answer": 7,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty divided by eight",
+      "answer": 7,
+      "timerSeconds": 25
+    },
+    {
+      "text": "eighty one divided by nine",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty six divided by eight",
+      "answer": 7,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy divided by seven",
+      "answer": 10,
+      "timerSeconds": 25
+    },
+    {
+      "text": "sixty three divided by seven",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy two divided by eight",
+      "answer": 9,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:div:4": [
+    {
+      "text": "one hundred eighty divided by twelve",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred sixty-five divided by eleven",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred ninety-two divided by twelve",
+      "answer": 16,
+      "timerSeconds": 20
+    },
+    {
+      "text": "seventy-two divided by twelve",
+      "answer": 6,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred eighty-four divided by twelve",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred sixty divided by thirteen",
+      "answer": 12,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred ninety-five divided by thirteen",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred seventy-six divided by fourteen",
+      "answer": 12,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred sixty five divided by eleven",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "ninety six divided by twelve",
+      "answer": 8,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred seventy two divided by fourteen",
+      "answer": 12,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred eighty nine divided by thirteen",
+      "answer": 13,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred ninety two divided by twelve",
+      "answer": 16,
+      "timerSeconds": 20
+    },
+    {
+      "text": "one hundred seventy divided by fourteen",
+      "answer": 12,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:div:5": [
+    {
+      "text": "four hundred ninety two divided by twenty four",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "one hundred eighty divided by nine",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred thirty six divided by fourteen",
+      "answer": 31,
+      "timerSeconds": 15
+    },
+    {
+      "text": "two hundred seventy five divided by eleven",
+      "answer": 25,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred eighty divided by sixteen",
+      "answer": 30,
+      "timerSeconds": 15
+    },
+    {
+      "text": "one hundred ninety two divided by eight",
+      "answer": 24,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred seventeen divided by seventeen",
+      "answer": 24,
+      "timerSeconds": 15
+    },
+    {
+      "text": "three hundred sixty divided by twelve",
+      "answer": 30,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred eighty four divided by twenty two",
+      "answer": 22,
+      "timerSeconds": 15
+    },
+    {
+      "text": "two hundred seventy divided by nine",
+      "answer": 30,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred thirty two divided by sixteen",
+      "answer": 27,
+      "timerSeconds": 15
+    },
+    {
+      "text": "one hundred ninety eight divided by eleven",
+      "answer": 18,
+      "timerSeconds": 15
+    },
+    {
+      "text": "two hundred eighty five divided by nineteen",
+      "answer": 15,
+      "timerSeconds": 15
+    },
+    {
+      "text": "four hundred sixty divided by twenty",
+      "answer": 23,
+      "timerSeconds": 15
+    },
+    {
+      "text": "three hundred ninety six divided by twelve",
+      "answer": 33,
+      "timerSeconds": 15
+    }
+  ],
+  "direct:pct:1": [
+    {
+      "text": "What is fifty percent of twenty eight",
+      "answer": 14,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred thirty six",
+      "answer": 68,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of forty eight",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of ninety six",
+      "answer": 48,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred twenty",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of sixty four",
+      "answer": 32,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred forty eight",
+      "answer": 74,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred twelve",
+      "answer": 56,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred forty",
+      "answer": 70,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of one hundred six",
+      "answer": 53,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is fifty percent of thirty two",
+      "answer": 16,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:pct:2": [
+    {
+      "text": "What is 25 percent of 240",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 75 percent of 400",
+      "answer": 300,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 25 percent of 60",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 75 percent of 80",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 25 percent of 360",
+      "answer": 90,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 75 percent of 300",
+      "answer": 225,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 25 percent of 200",
+      "answer": 50,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is 75 percent of 240",
+      "answer": 180,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is twenty five percent of two hundred and forty?",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is seventy five percent of forty eight?",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is twenty five percent of three hundred and sixty?",
+      "answer": 90,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is seventy five percent of two hundred and eighty?",
+      "answer": 210,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is twenty five percent of one hundred and sixty?",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is seventy five percent of one hundred and forty four?",
+      "answer": 108,
+      "timerSeconds": 30
+    },
+    {
+      "text": "What is twenty five percent of three hundred and twenty?",
+      "answer": 80,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:pct:3": [
+    {
+      "text": "What is twenty percent of two hundred thirty seven",
+      "answer": 47,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is ten percent of forty eight",
+      "answer": 5,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of one hundred ninety five",
+      "answer": 39,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is ten percent of two hundred seventeen",
+      "answer": 22,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is ten percent of sixty three",
+      "answer": 6,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of one hundred thirty nine",
+      "answer": 28,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of forty nine",
+      "answer": 10,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is ten percent of two hundred forty one",
+      "answer": 24,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of one hundred ninety two",
+      "answer": 38,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of thirty nine",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is ten percent of one hundred forty nine",
+      "answer": 15,
+      "timerSeconds": 25
+    },
+    {
+      "text": "What is twenty percent of two hundred fifty",
+      "answer": 50,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:pct:4": [
+    {
+      "text": "What is seventy percent of forty eight",
+      "answer": 34,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twenty percent of eighty seven",
+      "answer": 17,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is fifty percent of sixty three",
+      "answer": 32,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is thirty percent of ninety two",
+      "answer": 28,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is sixty five percent of twenty nine",
+      "answer": 19,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is forty percent of seventy one",
+      "answer": 28,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is seventy five percent of fifty four",
+      "answer": 41,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is fifty five percent of eighty three",
+      "answer": 46,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is twenty five percent of eighty seven",
+      "answer": 21,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is sixty percent of fifty two",
+      "answer": 31,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is seventy percent of forty nine",
+      "answer": 34,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is fifteen percent of ninety four",
+      "answer": 14,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is fifty percent of twenty eight",
+      "answer": 14,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is thirty percent of seventy three",
+      "answer": 21,
+      "timerSeconds": 20
+    },
+    {
+      "text": "What is eighty percent of thirty nine",
+      "answer": 31,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:pct:5": [
+    {
+      "text": "What is thirty five percent of one hundred thirty seven minus twenty three divided by two",
+      "answer": 13,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Find forty two percent of sixty nine plus seventeen times three",
+      "answer": 101,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Calculate twenty five percent of forty seven times two minus eleven",
+      "answer": 31,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Thirty percent of one hundred twenty eight divided by four plus nineteen",
+      "answer": 49,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Forty five percent of ninety three minus thirty two plus seventeen",
+      "answer": 24,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty percent of one hundred eleven plus thirteen times two",
+      "answer": 65,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Find fifty percent of sixty seven times three minus forty one",
+      "answer": 61,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Calculate eighteen percent of one hundred forty two divided by two plus twenty nine",
+      "answer": 59,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is thirty percent of one hundred thirteen dollars plus twenty seven dollars divided by three ways",
+      "answer": 48,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Find forty two percent of sixty nine dollars, then subtract seventeen dollars, and split the result between four people",
+      "answer": 5,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Calculate twenty five percent of one hundred forty seven dollars, add ninety one dollars, and divide the total by five",
+      "answer": 47,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Determine eighteen percent of thirty seven dollars, add fifty two dollars, and split the total between two people",
+      "answer": 44,
+      "timerSeconds": 15
+    },
+    {
+      "text": "What is forty seven percent of ninety two dollars minus twenty three dollars, then divided by six",
+      "answer": 5,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Find twenty two percent of one hundred thirty dollars, add eleven dollars, and split the result between seven people",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Calculate forty five percent of fifty eight dollars, then add thirty one dollars, and divide the total by three",
+      "answer": 23,
+      "timerSeconds": 15
+    }
+  ],
+  "direct:chain:1": [
+    {
+      "text": "Eight minus three plus five",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Nine plus four minus six",
+      "answer": 7,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Seven plus two minus four",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus eight minus five",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Five plus nine minus seven",
+      "answer": 7,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Four plus six minus two",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Nine plus three minus eight",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus seven minus nine",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Eight plus three minus five",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Nine plus four minus seven",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Six plus eight minus nine",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Seven plus five minus six",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Four plus nine minus eight",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Five plus six minus four",
+      "answer": 7,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Three plus nine minus seven",
+      "answer": 5,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:chain:2": [
+    {
+      "text": "2 times 5 plus 14",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "6 times 3 plus 5",
+      "answer": 23,
+      "timerSeconds": 30
+    },
+    {
+      "text": "4 times 6 plus 9",
+      "answer": 33,
+      "timerSeconds": 30
+    },
+    {
+      "text": "3 times 4 plus 12",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "5 times 2 plus 11",
+      "answer": 21,
+      "timerSeconds": 30
+    },
+    {
+      "text": "6 times 2 plus 10",
+      "answer": 22,
+      "timerSeconds": 30
+    },
+    {
+      "text": "3 times 6 plus 8",
+      "answer": 26,
+      "timerSeconds": 30
+    },
+    {
+      "text": "4 times 5 plus 6",
+      "answer": 26,
+      "timerSeconds": 30
+    },
+    {
+      "text": "two times five plus thirteen",
+      "answer": 23,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six times three plus eight",
+      "answer": 26,
+      "timerSeconds": 30
+    },
+    {
+      "text": "four times two plus eleven",
+      "answer": 19,
+      "timerSeconds": 30
+    },
+    {
+      "text": "five times six plus four",
+      "answer": 34,
+      "timerSeconds": 30
+    },
+    {
+      "text": "three times four plus ten",
+      "answer": 22,
+      "timerSeconds": 30
+    },
+    {
+      "text": "six times two plus twelve",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "four times six plus five",
+      "answer": 29,
+      "timerSeconds": 30
+    }
+  ],
+  "direct:chain:3": [
+    {
+      "text": "forty seven minus three times eleven",
+      "answer": 14,
+      "timerSeconds": 25
+    },
+    {
+      "text": "twenty two times nine divided by eleven minus seventeen",
+      "answer": 19,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy three minus forty five plus twenty two",
+      "answer": 50,
+      "timerSeconds": 25
+    },
+    {
+      "text": "ninety eight divided by seven times thirteen minus thirty",
+      "answer": 73,
+      "timerSeconds": 25
+    },
+    {
+      "text": "twenty five plus thirty seven times three",
+      "answer": 136,
+      "timerSeconds": 25
+    },
+    {
+      "text": "fifty six times nine minus two hundred thirty one",
+      "answer": 79,
+      "timerSeconds": 25
+    },
+    {
+      "text": "seventy nine plus forty two times twelve divided by seven",
+      "answer": 163,
+      "timerSeconds": 25
+    },
+    {
+      "text": "ninety nine divided by nine plus fifty six times three",
+      "answer": 203,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Four times nine plus thirty six",
+      "answer": 84,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Seven times eight minus forty two",
+      "answer": 26,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Nine times five minus twenty seven",
+      "answer": 18,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Six times eleven plus eighteen",
+      "answer": 90,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Eight times six minus forty eight",
+      "answer": 0,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Five times nine plus twenty one",
+      "answer": 66,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Ten times seven minus sixty three",
+      "answer": 17,
+      "timerSeconds": 25
+    }
+  ],
+  "direct:chain:4": [
+    {
+      "text": "four times nine plus forty eight",
+      "answer": 96,
+      "timerSeconds": 20
+    },
+    {
+      "text": "seven times six minus twenty five",
+      "answer": 17,
+      "timerSeconds": 20
+    },
+    {
+      "text": "eight times three plus fifty two",
+      "answer": 68,
+      "timerSeconds": 20
+    },
+    {
+      "text": "nine times five minus forty two",
+      "answer": 33,
+      "timerSeconds": 20
+    },
+    {
+      "text": "six times eight minus thirty seven",
+      "answer": 11,
+      "timerSeconds": 20
+    },
+    {
+      "text": "five times nine plus sixty one",
+      "answer": 100,
+      "timerSeconds": 20
+    },
+    {
+      "text": "eight times four plus forty seven",
+      "answer": 95,
+      "timerSeconds": 20
+    },
+    {
+      "text": "seven times nine minus fifty six",
+      "answer": 13,
+      "timerSeconds": 20
+    },
+    {
+      "text": "four times nine plus fifty six",
+      "answer": 134,
+      "timerSeconds": 20
+    },
+    {
+      "text": "seven times six minus forty seven",
+      "answer": 25,
+      "timerSeconds": 20
+    },
+    {
+      "text": "eight times five plus sixty three",
+      "answer": 103,
+      "timerSeconds": 20
+    },
+    {
+      "text": "nine times eight minus seventy two",
+      "answer": 48,
+      "timerSeconds": 20
+    },
+    {
+      "text": "six times nine minus fifty four",
+      "answer": 24,
+      "timerSeconds": 20
+    },
+    {
+      "text": "five times eight plus sixty one",
+      "answer": 101,
+      "timerSeconds": 20
+    },
+    {
+      "text": "eight times nine minus seventy eight",
+      "answer": 42,
+      "timerSeconds": 20
+    }
+  ],
+  "direct:chain:5": [
+    {
+      "text": "Twenty five percent of one hundred thirty seven plus forty two",
+      "answer": 105,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Fourteen percent of ninety eight minus twenty one",
+      "answer": 5,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Eleven percent of forty six plus ninety two",
+      "answer": 109,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty two percent of one hundred twenty nine minus thirty four",
+      "answer": 5,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Seventeen percent of sixty three plus fifty one",
+      "answer": 68,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty nine percent of one hundred seven minus fourteen",
+      "answer": 17,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Thirteen percent of one hundred thirty two plus twenty five",
+      "answer": 45,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty six percent of eighty nine minus forty seven",
+      "answer": 4,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty five percent of 48 plus 11",
+      "answer": 27,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Fifteen percent of 93 minus 22",
+      "answer": 4,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Thirteen percent of 67 plus 29",
+      "answer": 37,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty eight percent of 41 minus 18",
+      "answer": -1,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Eleven percent of 136 plus 7",
+      "answer": 24,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Twenty two percent of 59 minus 4",
+      "answer": 10,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Seventeen percent of 74 plus 25",
+      "answer": 38,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:add:1": [
+    {
+      "text": "If you have five pencils in your bag and your friend gives you four more pencils, how many pencils do you have now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has six books on it and you add seven more books to the shelf, how many books are on the bookshelf now",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are baking cookies and you need to put eight spoons of sugar and five spoons of flour in the mixing bowl, how many spoons of ingredients do you have in total",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are seven players on your soccer team and six players on the opposing team, how many players are on the field in total",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have eight crayons in your box and your mom buys you four more crayons, how many crayons do you have now",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A toy car track is six feet long and you add a three foot extension to it, how many feet of track do you have now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have five dollars in your piggy bank and your grandma gives you four more dollars for your birthday, how many dollars do you have now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are seven birds sitting on a tree branch and four more birds come to join them, how many birds are on the tree branch now",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If you have five apples in a bowl and your friend gives you four more apples to add to the bowl how many apples are in the bowl now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has six books on it and you add five more books to the shelf how many books are on the bookshelf now",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are making cookies for a party and you need to package seven cookies in a box and your helper packages five more cookies in another box how many cookies are packaged in total",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are eight birds perched on a tree branch and four more birds come to join them how many birds are on the tree branch now",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A toy car track is six feet long and you add a three foot extension to the track how many feet long is the toy car track now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have four pencils in your pencil case and your sister gives you six more pencils to add to your case how many pencils do you have in total",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to play a game and seven of them are already there and five more friends arrive to join them how many friends are there to play the game",
+      "answer": 12,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:add:2": [
+    {
+      "text": "Tom has thirty two boxes of cereal to stock on the shelves and he receives five more boxes from the warehouse, how many boxes does Tom have now",
+      "answer": 37,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has forty four books on it and someone donates seven more books to the library, how many books are on the shelf now",
+      "answer": 51,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A chef needs thirty eight eggs for a recipe and finds six more eggs in the fridge, how many eggs does the chef have now",
+      "answer": 44,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A student has twenty nine pencils in their pencil case and their friend gives them eight more pencils, how many pencils does the student have now",
+      "answer": 37,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store has forty one bottles of juice on the shelves and they get five more bottles delivered, how many bottles of juice does the store have now",
+      "answer": 46,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A cyclist rides twenty six miles on their bike and then rides four more miles to get home, how many miles did the cyclist ride in total",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has thirty five chickens in the coop and buys nine more chickens from a neighbor, how many chickens does the farmer have now",
+      "answer": 44,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A musician has twenty three songs on their playlist and adds six more songs to the playlist, how many songs are on the playlist now",
+      "answer": 29,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Tom has thirty-two boxes of cookies to sell at the bakery and he receives five more boxes from a new shipment, how many boxes of cookies does Tom have now",
+      "answer": 37,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has forty-four books on it and someone donates seven more books to the library, how many books are on the bookshelf now",
+      "answer": 51,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are twenty-one guests attending a party and eight more people arrive, how many guests are at the party now",
+      "answer": 29,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A cyclist rides thirty-eight miles on their bike and then rides four more miles to get home, how many miles did the cyclist ride in total",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A kitchen has twenty-five apples in a bowl and someone adds six more apples to the bowl, how many apples are in the bowl now",
+      "answer": 31,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store has forty-one shirts on a rack and they receive nine more shirts from a supplier, how many shirts are on the rack now",
+      "answer": 50,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A student has twenty-eight pencils in their pencil case and their friend gives them five more pencils, how many pencils does the student have now",
+      "answer": 33,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:add:3": [
+    {
+      "text": "Tom has forty seven dollars in his wallet and his grandmother sends him thirty eight dollars for his birthday, how much money does Tom have now",
+      "answer": 85,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookstore has fifty six books on a shelf and they receive a new shipment of twenty nine books to add to the shelf, how many books are on the shelf now",
+      "answer": 85,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A water tank can hold seventy nine gallons of water and twenty seven gallons are already in the tank, how many more gallons can be added to the tank",
+      "answer": 52,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Sarah has sixty three dollars in her piggy bank and she earns twenty five dollars from walking her neighbor's dog, how much money does Sarah have now",
+      "answer": 88,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A library has forty two books on a shelf and they add thirty five more books to the shelf, how many books are on the shelf now",
+      "answer": 77,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Michael has seventy one dollars in his savings account and his parents give him nineteen dollars for doing chores, how much money does Michael have now",
+      "answer": 90,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A farmer has sixty nine baskets of fruit and she picks fourteen more baskets from her orchard, how many baskets of fruit does the farmer have now",
+      "answer": 83,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A gym has forty five members and twenty six new members join the gym, how many members does the gym have now",
+      "answer": 71,
+      "timerSeconds": 25
+    },
+    {
+      "text": "If you have forty seven dollars in your wallet and your friend gives you thirty eight dollars to buy tickets for a concert, how much money will you have in total to spend on tickets and merchandise",
+      "answer": 85,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookstore has fifty six books on a shelf and they receive a new shipment of twenty nine books to display, how many books will the shelf have in total",
+      "answer": 85,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are planning a road trip and you drive seventy one miles on the first day and sixty three miles on the second day, how many miles will you have driven in total after two days",
+      "answer": 134,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A chef has seventy five kilograms of flour in the kitchen and needs to add thirty two kilograms more to make a large batch of bread, how many kilograms of flour will the chef have in total",
+      "answer": 107,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You have twenty five dollars in your piggy bank and your parents give you forty two dollars as a gift, how much money will you have in total to spend on a new toy",
+      "answer": 67,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A sports team has scored fifty nine points in the first half and thirty five points in the second half, how many points will they have scored in total at the end of the game",
+      "answer": 94,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You have sixty eight dollars in your savings account and you deposit forty one dollars from your part time job, how much money will you have in your account after the deposit",
+      "answer": 109,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:add:4": [
+    {
+      "text": "If a bookstore has three hundred and seventeen books on the shelves and they receive a new shipment of fifty seven books, how many books does the store have now",
+      "answer": 374,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A used car dealer has four hundred and twenty one dollars in the cash register and sells a car for twenty eight dollars, how much money is in the register after the sale",
+      "answer": 449,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A customer pays two hundred and fifty nine dollars for a meal at a restaurant and leaves a thirty two dollar tip, what is the total amount the customer paid",
+      "answer": 291,
+      "timerSeconds": 20
+    },
+    {
+      "text": "An athlete scores three hundred and eighty nine points in the first round of a competition and gets forty two points in the second round, what is the total score of the athlete",
+      "answer": 431,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bakery sells two hundred and seventy five loaves of bread and receives an order for sixty three more loaves, how many loaves does the bakery need to make in total",
+      "answer": 338,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A person has four hundred and ninety eight dollars in their account and deposits twenty five dollars, how much money does the person have now",
+      "answer": 523,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A retailer has three hundred and fifteen units of a product in stock and orders seventy nine more units, what is the total number of units the retailer will have",
+      "answer": 394,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A hiker climbs four hundred and twelve meters and then ascends an additional forty seven meters, what is the total height the hiker has climbed",
+      "answer": 459,
+      "timerSeconds": 20
+    },
+    {
+      "text": "Tom has three hundred forty two dollars in his wallet and he finds fifty seven dollars on the ground what is the total amount of money Tom has now",
+      "answer": 399,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookstore has four hundred eighteen books on a shelf and they receive a new shipment of sixty two books how many books does the bookstore have now",
+      "answer": 480,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A restaurant has one hundred eighty seven dollars in their tip jar at the end of the night and the staff collects an additional thirty eight dollars from the late evening customers what is the total amount of money in the tip jar",
+      "answer": 225,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A water tank can hold four hundred ninety nine gallons of water and it already has two hundred thirty four gallons how much more water can be added if seventy five gallons are already being pumped in",
+      "answer": 190,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A company has three hundred fifty eight employees and they hire an additional forty seven new staff members how many employees does the company have now",
+      "answer": 405,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A person has two hundred sixty nine dollars in their savings account and they deposit an additional seventy nine dollars what is the new total in the savings account",
+      "answer": 348,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A library has four hundred twenty one books on a shelf and they add sixty eight new books to the collection how many books are on the shelf now",
+      "answer": 489,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:add:5": [
+    {
+      "text": "A bookstore is having a sale and they need to restock their shelves with a new shipment of novels, they have three hundred and twenty seven books in storage and the delivery truck is bringing in four hundred and ninety two more, how many books will they have in total",
+      "answer": 819,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer harvested five hundred and sixty eight kilograms of wheat from one field and four hundred and thirty nine kilograms from another, how many kilograms of wheat does the farmer have now",
+      "answer": 1007,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company has six hundred and twelve employees in their main office and they just hired four hundred and seventy five more staff members for their new branch, what is the total number of employees now",
+      "answer": 1087,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A group of friends want to buy tickets to a music festival, the tickets cost two hundred and seventy five dollars per person and they have a total budget of four hundred and ninety eight dollars for merchandise, if they spend all their money how much will they have spent in total",
+      "answer": 773,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library has five hundred and thirty seven books on a shelf and they receive a donation of four hundred and twenty one more books, how many books are on the shelf now",
+      "answer": 958,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A water tank can hold six hundred and forty five liters of water and it already has two hundred and ninety seven liters in it, how many liters of water can still be added to the tank",
+      "answer": 942,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person has six hundred and eighty two dollars in their savings account and they deposit four hundred and fifty seven dollars from their paycheck, how much money does the person have in their savings account now",
+      "answer": 1139,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A warehouse has four hundred and thirty eight boxes of inventory and a new shipment of five hundred and ninety one boxes arrives, how many boxes of inventory are in the warehouse now",
+      "answer": 929,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Tom invested four hundred and fifty seven dollars in a retail stock and his friend invested two hundred and ninety five dollars in the same stock, how much did they invest in total",
+      "answer": 752,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A bookstore is having a sale on novels, and they sold three hundred and seventy two copies of a bestselling novel in the morning and four hundred and twenty eight copies in the afternoon, how many copies did they sell in total",
+      "answer": 800,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A restaurant served six hundred and seventeen dollars worth of breakfast orders and five hundred and eighty three dollars worth of lunch orders on a busy sunday, what is the total value of the orders they served",
+      "answer": 1200,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A factory produced five hundred and ninety eight units of a product in the first shift and two hundred and fifty nine units in the second shift, what is the total number of units they produced",
+      "answer": 857,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A non-profit organization received three hundred and fifteen dollars in donations from a charity event and four hundred and seventy two dollars from a fundraising campaign, how much did they receive in total",
+      "answer": 787,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A water park sold four hundred and eighty two tickets in the morning and three hundred and ninety seven tickets in the afternoon on a summer day, how many tickets did they sell in total",
+      "answer": 879,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library has six hundred and forty eight books on a shelf and they received a donation of two hundred and seventeen books, how many books does the library have now on that shelf",
+      "answer": 865,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:sub:1": [
+    {
+      "text": "If you have 8 pencils in your pencil case and you give 3 to your friend, how many pencils do you have left",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has 9 books on it and 4 are removed, how many books are left on the bookshelf",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You scored 8 points in a game and your opponent scored 3 points, what is the difference in your scores",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are 8 players on a team and 3 players are absent, how many players are present",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have 9 apples in a basket and you take away 4 apples, how many apples are left in the basket",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store has 8 boxes of toys and they sell 3 boxes, how many boxes of toys are left in the store",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have 9 dollars in your wallet and you spend 3 dollars on a toy, how many dollars do you have left",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are 8 kids in a class and 3 kids go home early, how many kids are left in the class",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If you have 8 pencils in your pencil case and you give 3 pencils to your friend, how many pencils do you have left",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has 9 books on it and 4 books are removed, how many books are on the bookshelf now",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have 8 dollars in your wallet and you spend 3 dollars on a candy bar, how many dollars do you have left",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are 8 players on a team and 3 players leave, how many players are on the team now",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have 9 cookies in a jar and you eat 4 cookies, how many cookies are in the jar now",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A toy box has 8 toys in it and 3 toys are taken out, how many toys are in the toy box now",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have 9 marbles in a bag and you lose 4 marbles, how many marbles do you have left",
+      "answer": 5,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:sub:2": [
+    {
+      "text": "If you have forty seven dollars in your wallet and you spend five dollars on lunch, how much money do you have left",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has sixty three books on it and eight books are taken off, how many books are left on the bookshelf",
+      "answer": 55,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are at a store and you buy a toy that costs four dollars, if you pay with a fifty dollar bill, how much change will you get in dollars",
+      "answer": 46,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are seventy five apples in a basket and seven apples are eaten, how many apples are left in the basket",
+      "answer": 68,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A person has sixty nine pencils in a box and they give six pencils to a friend, how many pencils does the person have left",
+      "answer": 63,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have forty two marbles in a bag and you take away three marbles, how many marbles are left in the bag",
+      "answer": 39,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bakery has seventy two cupcakes on display and five cupcakes are sold, how many cupcakes are left on display",
+      "answer": 67,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are playing a game with fifty eight points and you lose two points, how many points do you have left",
+      "answer": 56,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Tom had forty seven dollars in his wallet and spent five dollars on a magazine what is the amount of money left in his wallet",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookstore has sixty three books on a shelf and they remove six books to display them in the window how many books are left on the shelf",
+      "answer": 57,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have seventy five pebbles in a jar and take away four pebbles to use for a craft project how many pebbles are left in the jar",
+      "answer": 71,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bike rider travels fifty two miles on the first day of a trip and then travels back eight miles to a hotel how many miles is the bike rider from the starting point",
+      "answer": 44,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to share some candy and they have sixty one pieces if they give three pieces to a friend who forgot to bring candy how many pieces are left",
+      "answer": 58,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A library has seventy eight books on a shelf and they remove five books to be repaired how many books are left on the shelf",
+      "answer": 73,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You bought forty three apples from an orchard and ate two apples on the way home how many apples are left",
+      "answer": 41,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:sub:3": [
+    {
+      "text": "If you had eighty seven dollars in your wallet and you spent thirty nine dollars on a new video game, how much money do you have left?",
+      "answer": 48,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookstore has seventy one books on a shelf and they remove thirty eight books to make room for new titles, how many books are left on the shelf?",
+      "answer": 33,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are planning a road trip and your car gets forty three miles per gallon, if you use thirty miles per gallon worth of gas to get to the first stop, how many miles per gallon worth of gas do you have left?",
+      "answer": 13,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bakery has eighty three cupcakes to sell and they sell forty two cupcakes in the first hour, how many cupcakes are left to sell?",
+      "answer": 41,
+      "timerSeconds": 25
+    },
+    {
+      "text": "If you have sixty nine dollars in your savings account and you take out twenty nine dollars to buy a gift, how much money is left in your account?",
+      "answer": 40,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to go hiking and they have seventy five energy bars to eat, if they eat thirty two energy bars on the first day, how many energy bars are left for the rest of the trip?",
+      "answer": 43,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are saving up money to buy a new bike and you have eighty one dollars, but then you spend thirty five dollars on a new helmet, how much money do you have left?",
+      "answer": 46,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A library has seventy eight books on a shelf and they remove forty one books to donate to a charity, how many books are left on the shelf?",
+      "answer": 37,
+      "timerSeconds": 25
+    },
+    {
+      "text": "If you had seventy five dollars in your wallet and you spent forty two dollars on a new video game, how much money do you have left",
+      "answer": 33,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookstore has sixty eight books on a shelf and they remove thirty nine books to make room for new inventory, how many books are left on the shelf",
+      "answer": 29,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are planning a road trip and you have eighty five gallons of fuel in your tank, after driving for a while you use up forty seven gallons, how many gallons of fuel do you have left",
+      "answer": 38,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A person has seventy two dollars in their account and they withdraw thirty five dollars to pay for a bill, how much money is left in their account",
+      "answer": 37,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A library has eighty one books on a shelf and they lend out thirty eight books to patrons, how many books are left on the shelf",
+      "answer": 43,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You have sixty five dollars to spend on dinner and you spend twenty eight dollars on appetizers, how much money do you have left to spend on the rest of your meal",
+      "answer": 37,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A person is saving money for a vacation and they have seventy nine dollars in their savings account, they take out thirty two dollars to pay for a hotel room, how much money is left in their savings account",
+      "answer": 47,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:sub:4": [
+    {
+      "text": "If Tom had three hundred and seventy two dollars in his wallet and he spent sixty four dollars on a new video game, how much money does Tom have left",
+      "answer": 308,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookstore has four hundred and fifty five books on a shelf and they sell thirty eight books to a customer, how many books are left on the shelf",
+      "answer": 417,
+      "timerSeconds": 20
+    },
+    {
+      "text": "You are planning a road trip and your car gets thirty five miles per gallon, if you have four hundred and twenty eight miles to drive and you already drove seventy nine miles, how many miles do you still have to drive",
+      "answer": 349,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If a bakery has four hundred and ninety seven cookies in stock and they give away twenty five cookies to a charity, how many cookies does the bakery have left",
+      "answer": 472,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A person has three hundred and sixteen dollars in their savings account and they withdraw fifty two dollars to buy a new phone case, how much money is left in the account",
+      "answer": 264,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A library has four hundred and twenty two books on a shelf and they remove forty three books that are damaged, how many books are left on the shelf",
+      "answer": 379,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If you have four hundred and fifty dollars to spend on a vacation and you spend twenty seven dollars on a souvenir, how much money do you have left to spend",
+      "answer": 423,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A gym has three hundred and ninety five members and thirty one members cancel their memberships, how many members does the gym have left",
+      "answer": 364,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If Tom had two hundred and seventy five dollars in his wallet and he spent fifty seven dollars on a new video game, how much money does Tom have left",
+      "answer": 218,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookstore has three hundred and eighty two books on a shelf and they sold sixty nine books over the weekend, how many books are left on the shelf",
+      "answer": 313,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If a car travels two hundred and ninety five miles on a road trip and it uses up forty two miles worth of gas on the first part of the trip, how many miles can the car still travel on the remaining gas",
+      "answer": 253,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A water tank can hold three hundred and seventy nine gallons of water and sixty three gallons of water were already used, how many gallons of water are left in the tank",
+      "answer": 316,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If a person has four hundred and ninety eight dollars in their bank account and they withdraw seventy nine dollars to buy a gift, how much money is left in the account",
+      "answer": 419,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bakery had three hundred and fifty two cupcakes on display and they sold twenty four cupcakes to a customer, how many cupcakes are left",
+      "answer": 328,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A group of friends want to go on a hike that is two hundred and eighty seven miles long and they have already hiked fifty one miles, how many miles do they still have to hike",
+      "answer": 236,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:sub:5": [
+    {
+      "text": "If a store has five hundred and seventy two dollars in its morning deposit and the manager takes out four hundred and ninety seven dollars to buy new equipment, how much money is left in the deposit?",
+      "answer": 75,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A water tank can hold eight hundred and forty gallons of water and it currently has seven hundred and fifty nine gallons, if four hundred and twenty one gallons are drained from it, how much water is left in the tank?",
+      "answer": 338,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library has six hundred and eighty seven books on a shelf and they give away five hundred and ninety two books to a charity, if they then remove two hundred and five books that are damaged, how many books are left on the shelf?",
+      "answer": 0,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person has eight hundred and ninety five dollars in their wallet and spends six hundred and twelve dollars on a new bike, then gives two hundred and fifty dollars to a friend, how much money is left in their wallet?",
+      "answer": 33,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company has seven hundred and thirty two employees and lays off five hundred and seventeen employees due to budget cuts, then hires two hundred and seven new employees, how many employees does the company have left?",
+      "answer": 422,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer has eight hundred and forty three kilograms of wheat in storage and sells five hundred and ninety eight kilograms to a buyer, if he then donates one hundred and seventy five kilograms to a food bank, how many kilograms of wheat are left?",
+      "answer": 70,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person invests six hundred and fifty eight dollars in a stock and it loses four hundred and eighty seven dollars in value, then gains one hundred and thirty seven dollars in value, how much is their investment worth now?",
+      "answer": 308,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A city has seven hundred and nineteen meters of road construction done and the workers complete four hundred and ninety two more meters, but then destroy two hundred and eleven meters due to bad quality, how many meters of road construction are left?",
+      "answer": 1000,
+      "timerSeconds": 15
+    },
+    {
+      "text": "If Tom had eight hundred seventy five dollars in his savings account and he spent five hundred twelve dollars on a new laptop, how much money does Tom have left in his account",
+      "answer": 363,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A bookstore originally had seven hundred eighteen books on its shelves, but after a big sale, it sold four hundred ninety two books, how many books are left in the store",
+      "answer": 226,
+      "timerSeconds": 15
+    },
+    {
+      "text": "Emily had six hundred eighty two dollars in her wallet, she then bought a gift for her sister that cost two hundred seventy five dollars, how much money is Emily left with",
+      "answer": 407,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A warehouse had eight hundred forty three boxes of supplies, after donating five hundred seventeen boxes to a local charity, how many boxes are left in the warehouse",
+      "answer": 326,
+      "timerSeconds": 15
+    },
+    {
+      "text": "David had seven hundred ninety eight dollars to spend on a trip, but he ended up spending four hundred eleven dollars on a flight, how much money does David have left for the rest of his trip",
+      "answer": 387,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer harvested six hundred ninety five bushels of wheat, but due to some damage, he lost two hundred eighty seven bushels, how many bushels of wheat does the farmer have left",
+      "answer": 408,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library had eight hundred sixty two books in its collection, but after removing four hundred thirty eight books that were no longer needed, how many books are left in the library's collection",
+      "answer": 424,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:mul:1": [
+    {
+      "text": "Tom has five boxes of crayons to pack into bags for the art class, and each box contains seven crayons, how many crayons will Tom pack in total",
+      "answer": 35,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has eight shelves, and each shelf can hold five books, how many books can the bookshelf hold in total",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer is planting seeds in rows, with five rows of seeds, and each row needs to have six seeds, how many seeds will the farmer plant",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A toy car track is ten blocks long, and it needs to be replicated three times for a big race, how many blocks are needed in total",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Sarah is baking cookies for a party, and she needs to put four cookies on each of ten plates, how many cookies will Sarah need",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are seven puppies in a litter, and each puppy needs two bowls of food, how many bowls of food are needed for all the puppies",
+      "answer": 14,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Ashley bought five bags of apples, with eight apples in each bag, how many apples did Ashley buy",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Ben can fit five boxes of cereal in each of his nine cabinets, how many boxes of cereal can Ben store",
+      "answer": 45,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a bookshelf has five shelves and each shelf can hold eight books, how many books can the bookshelf hold in total",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bakery is making a special batch of cookies for a holiday sale, they need to package seven cookies per box and they have five boxes to fill, how many cookies will they need in total",
+      "answer": 35,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to play a game of doubles tennis and they need to divide into teams of four players per court, if they have three courts available, how many players can play at the same time",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer is planting seeds in his garden and he needs to plant five seeds per row, if he has six rows to plant, how many seeds will he need in total",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A teacher is giving a quiz to her students and she needs to make ten copies of the quiz per class, if she has four classes, how many copies of the quiz will she need to make",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A hiker is planning a trip and she needs to bring two energy bars per day, if she will be hiking for seven days, how many energy bars will she need to bring",
+      "answer": 14,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store is having a sale on shirts and they have five tables to display the shirts, if each table can hold nine shirts, how many shirts can they display in total",
+      "answer": 45,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:mul:2": [
+    {
+      "text": "If a bookshelf has four shelves and each shelf can hold six boxes of books, how many boxes can the bookshelf hold in total",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A recipe for making cookies calls for six cups of flour to make three batches of cookies, how many cups of flour are needed to make nine batches of cookies",
+      "answer": 18,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A person is planting a garden with four rows of flowers and each row needs seven flowers, how many flowers will the person need in total",
+      "answer": 28,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store is having a sale on packs of pens with six pens in each pack and a customer wants to buy nine packs, how many pens will the customer get in total",
+      "answer": 54,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A builder is working on a construction site and needs to lay four layers of bricks with five bricks in each layer, how many bricks will the builder need in total",
+      "answer": 20,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A teacher is preparing lesson plans for three classes with eight students in each class, how many students will the teacher have in total",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A factory produces boxes of toys with four toys in each box and the factory produces seven boxes per hour, how many toys does the factory produce per hour",
+      "answer": 28,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer is harvesting crops from six fields with five trees in each field, how many trees will the farmer harvest from in total",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a bookshelf has six shelves and each shelf can hold seven books, how many books can the bookshelf hold in total",
+      "answer": 42,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A recipe for making cookies calls for four batches of dough, with each batch requiring five cookies to be made, how many cookies will be made in total",
+      "answer": 20,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer is planting trees in rows, with six trees in each row, and she wants to plant four rows, how many trees will she plant",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store is having a sale on packs of pens, with four pens in each pack, and a customer wants to buy nine packs, how many pens will the customer buy",
+      "answer": 36,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to share some candy equally, and they have six boxes of candy, with each box containing eight pieces, how many pieces of candy will they have to share",
+      "answer": 48,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A builder is constructing a house with four rooms, and each room needs to have six windows, how many windows will the builder need to install",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A teacher is preparing lesson plans for her class, and she needs to make seven copies of a worksheet for each of her six students, how many copies will she need to make",
+      "answer": 42,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:mul:3": [
+    {
+      "text": "A bookshelf has eight shelves and each shelf can hold nine books, how many books can the bookshelf hold in total",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A recipe for making cookies calls for seven cups of flour to make nine batches of cookies, how many cups of flour are needed to make nine batches",
+      "answer": 63,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A farmer has nine bags of seeds and each bag contains eight packets of seeds, how many packets of seeds does the farmer have",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A store is having a sale on shirts and they have seven boxes of shirts to put on the shelves, with eight shirts in each box, how many shirts are there in total",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to rent a house with eight bedrooms and each bedroom can fit seven people, how many people can the house fit in total",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bakery sells nine trays of pastries every day and each tray has eight pastries on it, how many pastries are sold per day",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A teacher has seven classes with nine students in each class, how many students does the teacher have in total",
+      "answer": 63,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A warehouse has nine crates of goods and each crate contains eight boxes, how many boxes are there in the warehouse",
+      "answer": 72,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookshelf has seven shelves and each shelf can hold eight books, how many books can the bookshelf hold in total",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A chef needs to package nine boxes of cookies with five cookies in each box, how many cookies will the chef package",
+      "answer": 45,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A farmer is planting nine rows of trees with six trees in each row, how many trees will the farmer plant",
+      "answer": 54,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A store is having a sale on shirts and they have eight tables with seven shirts on each table, how many shirts are on display",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A teacher has seven classes with eight students in each class, how many students does the teacher have",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A warehouse has nine crates of machines with five machines in each crate, how many machines are in the warehouse",
+      "answer": 45,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A gardener is planting seven flowerbeds with nine flowers in each bed, how many flowers will the gardener plant",
+      "answer": 63,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:mul:4": [
+    {
+      "text": "A bookshelf has twelve shelves and each shelf can hold nine boxes of books, how many boxes can the bookshelf hold in total",
+      "answer": 108,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bakery is making a special batch of cookies for a holiday sale, they need to package eleven rows of cookies with eight cookies in each row, how many cookies will they package in total",
+      "answer": 88,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A group of friends want to go on a road trip and they plan to drive for twelve hours at a speed of seven miles per hour, how many miles will they travel in total",
+      "answer": 84,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A farmer has eleven fields of wheat and each field produces five sacks of wheat per harvest, how many sacks of wheat will the farmer get from all the fields",
+      "answer": 55,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A company has twelve departments and each department needs four new computers, how many computers will the company buy in total",
+      "answer": 48,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A student is saving money for college and has twelve envelopes to save money in, if they put ten dollars in each envelope every month, how much money will they save in total after one month",
+      "answer": 120,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A builder is constructing a wall with eleven rows of bricks and each row needs nine bricks, how many bricks will the builder need in total",
+      "answer": 99,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A restaurant is preparing for a banquet and they need to set twelve tables with eight plates on each table, how many plates will they need in total",
+      "answer": 96,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookshelf has twelve shelves and each shelf can hold eleven books, how many books can the bookshelf hold in total",
+      "answer": 132,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A factory produces eleven boxes of pens per hour and each box contains nine pens, how many pens are produced per hour",
+      "answer": 99,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A farmer has twelve fields to plant and each field requires eight bags of seeds, how many bags of seeds are needed",
+      "answer": 96,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A store is having a sale on packs of gum and they have eleven displays with seven packs on each display, how many packs of gum are on display",
+      "answer": 77,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A chef needs to package twelve trays of cookies with ten cookies on each tray for a catering event, how many cookies will be packaged",
+      "answer": 120,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A warehouse has eleven pallets of merchandise to ship and each pallet contains nine crates, how many crates are being shipped",
+      "answer": 99,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A teacher has twelve classes to prepare lessons for and each class requires eight worksheets, how many worksheets need to be prepared",
+      "answer": 96,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:mul:5": [
+    {
+      "text": "A bookstore owner needs to package eighteen boxes of books with five books in each box for a total shipment how many books will the owner package",
+      "answer": 90,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A carpenter is building a fence with twenty seven posts and needs to put four wooden beams between each post how many beams will the carpenter use",
+      "answer": 108,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A chef is making trays of cookies for a large order and each tray needs to be filled with six rows of cookies and twenty five cookies in each row how many cookies will the chef make",
+      "answer": 150,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer has twenty four baskets of apples with eight apples in each basket to sell at the market how many apples does the farmer have to sell",
+      "answer": 192,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A factory produces twenty nine crates of goods per day with seven items in each crate how many items does the factory produce in a day",
+      "answer": 203,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A student council is planning a school event and they need to set up nineteen tables with nine chairs at each table how many chairs will they need to set up",
+      "answer": 171,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A bicycle shop owner has twenty three boxes of bike parts with six parts in each box to stock the shelves how many bike parts does the owner have",
+      "answer": 138,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library is shelving books on twenty six shelves with five books on each shelf how many books will the library shelve",
+      "answer": 130,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A bookshelf has twenty seven boxes of novels and each box contains five novels, how many novels are there in total",
+      "answer": 135,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A factory produces eighteen batches of toys and each batch has eight toys, how many toys are produced in total",
+      "answer": 144,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A chef needs to package twenty three bags of cookies and each bag should have six cookies, how many cookies will the chef need in total",
+      "answer": 138,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer has twenty five boxes of apples and each box contains four apples, how many apples are there in total",
+      "answer": 100,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A teacher has twenty eight groups of students and each group has three students, how many students are there in total",
+      "answer": 84,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A warehouse has twenty boxes of machines and each box contains nine machines, how many machines are there in total",
+      "answer": 180,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A store has seventeen shelves of clothes and each shelf can hold eight clothes, how many clothes can be held in total",
+      "answer": 136,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:div:1": [
+    {
+      "text": "If you have thirty cookies and you want to put them into boxes that hold five cookies each, how many boxes can you fill",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has forty books on it and you want to pack them into bags that hold ten books each, how many bags can you fill",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have eighteen pencils and you want to give an equal number of pencils to two of your friends, how many pencils will each friend get",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are making bags of candy and you have twenty five pieces of candy to put into bags that hold five pieces each, how many bags can you make",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to share some money and they have forty dollars to divide between ten friends, but then two friends leave so now they have to divide it between eight is not correct, they still have to divide forty dollars but now between the remaining eight no, the correct is forty dollars between the original ten but two leave, so between eight, no. The correct is that the forty dollars was going to be divided by ten but now is divided between eight no. The correct is the original forty dollars between ten friends now two friends left so there are eight friends but that is forty dollars between ten friends so ten is the divisor and the dividend is forty so forty divided by ten is four dollars per friend but two friends left so the forty dollars is still divided between ten so forty divided by ten is four dollars per friend, how much money will each of the original ten friends get",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have twenty five stickers and you want to give an equal number of stickers to five of your friends, how many stickers will each friend get",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are planning a road trip and you have thirty miles to drive before you stop for gas and you drive at a rate of ten miles per segment, how many segments will you drive",
+      "answer": 3,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A pizza has twenty slices and you want to serve it to two people, how many slices will each person get",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If you have thirty cookies that you want to package in boxes of five cookies each, how many boxes can you make",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has twenty books on it and you want to put an equal number of books in two boxes, how many books will each box hold",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have forty pencils to give to students and you want to give ten pencils to each student, how many students can you give pencils to",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If you are making trails mix and you need to divide forty five pieces of candy into bags of five pieces each, how many bags can you fill",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are sharing eighteen stickers with a friend and you want to divide them evenly, how many stickers will each of you get",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has forty apples to put into baskets that hold ten apples each, how many baskets can the farmer fill",
+      "answer": 4,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have twenty five buttons that you want to sew onto two shirts, with an equal number of buttons on each shirt, how many buttons will each shirt get",
+      "answer": 12,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:div:2": [
+    {
+      "text": "If a bookshelf has forty-eight books and you want to put them into boxes that hold six books each, how many boxes can you fill",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A pizza parlor is making large pizzas that are cut into twelve slices, if they need to package them in bags of four slices each, how many bags can they make from fifty-two slices",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You have sixty pounds of dog food to package in bags that hold four pounds each, how many bags can you fill",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A factory produces sixty-six widgets per hour and they are packed into crates that hold six widgets each, how many crates are filled in one hour",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a library has thirty-six books to put on shelves that hold three books each, how many shelves can they fill",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A warehouse has forty-eight boxes to load onto trucks that can carry six boxes at a time, how many trucks are needed",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You need to share sixty pounds of candy equally among four people, how many pounds of candy will each person get",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has fifty-four apples to put into baskets that hold six apples each, how many baskets can the farmer fill",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has forty eight books that need to be packed into boxes that can hold six books each, how many boxes can be completely filled with books",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a chef has sixty pounds of cookie dough to package in four pound bags, how many bags can the chef completely fill with cookie dough",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has sixty three acres of land to divide into six acre plots for planting different crops, how many plots can the farmer create",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to share some candy equally, if they have sixty candies and there are four friends, how many candies will each friend get",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A library has thirty six books to put on shelves that can hold three books each, how many shelves can be completely filled with books",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a store has seventy two pens to package in boxes that hold six pens each, how many boxes can be completely filled with pens",
+      "answer": 12,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bakery has forty eight cupcakes to package in boxes that can hold four cupcakes each, how many boxes can be completely filled with cupcakes",
+      "answer": 12,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:div:3": [
+    {
+      "text": "A bookshelf has seventy two books to be packed into boxes that can hold nine books each, how many boxes are needed to pack all the books",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A farmer has sixty three baskets of apples to deliver to a market that can only receive seven baskets at a time, how many trips will the farmer need to make",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to share some candy equally, if they have seventy two pieces of candy and there are nine friends, how many pieces of candy will each friend get",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A library has seventy two chairs to arrange into rows of nine chairs each, how many rows can be made",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A baker needs to package sixty three cupcakes into boxes that hold seven cupcakes each, how many boxes can be filled",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A warehouse has seventy two boxes of goods to load onto trucks that can carry nine boxes at a time, how many trucks are needed",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A teacher has seventy two pencils to distribute among eight students, how many pencils will each student get",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A store has fifty six t shirts to fold and pack into bags that can hold eight t shirts each, how many bags can be filled",
+      "answer": 7,
+      "timerSeconds": 25
+    },
+    {
+      "text": "If a bookshelf has seventy two books and they need to be packed into boxes that hold nine books each, how many boxes are needed",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A carpenter is building a fence and needs to divide sixty three feet of wood into sections that are seven feet long, how many sections can the carpenter make",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A chef has seventy eight cookies that she wants to package in bags of nine cookies each, how many bags can the chef make",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to share some candy equally and there are seventy two pieces of candy to be divided among eight friends, how many pieces of candy will each friend get",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A library has sixty four books to be shelves and they want to put eight books on each shelf, how many shelves can the library fill",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "If a farmer has seventy two eggs to be packed into cartons that hold nine eggs each, how many cartons are needed",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A seamstress is cutting fabric into strips that are eight feet long and she has seventy two feet of fabric, how many strips can the seamstress make",
+      "answer": 9,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:div:4": [
+    {
+      "text": "If a bookshelf has one hundred and eighty books and the librarian wants to put them into boxes that hold twelve books each, how many boxes can the librarian fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A chef needs to package seventy two cookies into bags that hold twelve cookies each for a bake sale, how many bags can the chef fill",
+      "answer": 6,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A group of friends want to share some candy equally and they have one hundred and eighty pieces, if they are thirteen friends, how many pieces of candy will each friend get",
+      "answer": 13,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A store is having a sale on shirts and they have one hundred and eighty shirts to put on racks that hold twelve shirts each, how many racks can they fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A farmer is harvesting wheat and has one hundred and eighty bushels to store in silos that hold twelve bushels each, how many silos can the farmer fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A teacher has one hundred and sixty five pencils to put into containers that hold eleven pencils each for the students, how many containers can the teacher fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A factory produces one hundred and eighty units of a product and they want to pack them into crates that hold twelve units each, how many crates can they fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A woman is planning a dinner party and she needs to set the tables with seventy two napkins, if she wants to put twelve napkins on each table, how many tables can she set",
+      "answer": 6,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookshelf has one hundred and eighty books to be packed into boxes that can hold twelve books each, how many boxes are needed to pack all the books",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A chef needs to package one hundred and sixty five cookies into bags that hold eleven cookies each, how many bags can the chef fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A carpenter has one hundred and eighty feet of wood to cut into pieces that are twelve feet long, how many pieces of wood can the carpenter cut",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A factory produces one hundred and eighty units of a product to be packed into crates that can hold twelve units each, how many crates are needed to pack all the units",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A farmer has one hundred and seventy five apples to put into baskets that can hold eleven apples each, how many baskets can the farmer fill",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A store has one hundred and ninety two pencils to pack into boxes that can hold twelve pencils each, how many boxes are needed to pack all the pencils",
+      "answer": 16,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A teacher has one hundred and eighty students to divide into classes that can hold twelve students each, how many classes are needed to accommodate all the students",
+      "answer": 15,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:div:5": [
+    {
+      "text": "A bookstore has four hundred and ninety two books to put on shelves that can hold twenty four books each, how many shelves can they fill",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A group of friends want to share some candy equally, if they have three hundred and fifty pieces and there are seventeen friends, how many pieces will each friend get",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer has four hundred and eighty apples to put into baskets that can hold eighteen apples each, how many baskets can the farmer fill",
+      "answer": 26,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A teacher has three hundred and ninety six pencils to distribute to her students, if she wants to give each student twenty two pencils, how many students can she give pencils to",
+      "answer": 18,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A factory produces three hundred and twelve boxes of cookies per day, if they want to pack the boxes into cartons that hold twelve boxes each, how many cartons can they fill per day",
+      "answer": 26,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library has four hundred and fifty books to shelve, if they want to put the books on shelves that can hold twenty five books each, how many shelves can they fill",
+      "answer": 18,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company has four hundred and fourteen items to pack into crates that can hold fourteen items each, how many crates can they fill",
+      "answer": 29,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A restaurateur has three hundred and fifteen servings of food to serve to tables of fifteen people, how many tables can the restaurateur serve",
+      "answer": 21,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A bookstore has four hundred and eighty books to put on shelves, and they want to divide them evenly among twenty shelves, how many books will each shelf hold",
+      "answer": 24,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A construction company needs to divide three hundred and sixty feet of piping into sections of twelve feet each for a new building, how many sections can they make",
+      "answer": 30,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A chef has four hundred and fifty cookies that she needs to package in boxes that hold fifteen cookies each, how many boxes can she fill",
+      "answer": 30,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A farmer has three hundred and eighty apples to divide into baskets that hold nineteen apples each, how many baskets can he fill",
+      "answer": 20,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A library has four hundred and twenty books to shelve, and they want to put an equal number of books on eighteen shelves, how many books will each shelf hold",
+      "answer": 23,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A factory produces three hundred and ninety-six widgets per day, and they are packaged in boxes of twenty-four widgets each, how many boxes are filled per day",
+      "answer": 16,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A teacher has four hundred and fifty pencils to divide evenly among twenty-five students, how many pencils will each student get",
+      "answer": 18,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:pct:1": [
+    {
+      "text": "A bookstore is having a sale where fifty percent of all books are discounted, if a book originally costs eighty dollars, how much will you pay for it during the sale",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A chef needs to prepare a recipe that requires fifty percent of one hundred and twenty grams of flour, how many grams of flour should the chef use",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A clothing store is offering fifty percent off all jeans, if a pair of jeans originally costs one hundred and forty dollars, how much will you pay for them during the sale",
+      "answer": 70,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has one hundred and sixty acres of land and wants to dedicate fifty percent of it to growing wheat, how many acres will be used for wheat",
+      "answer": 80,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A gym is offering a promotion where fifty percent of the membership fee is waived, if the membership originally costs one hundred and twenty dollars, how much will you pay for it during the promotion",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A student scored one hundred and forty points on a test and the teacher announced that fifty percent of the points will be added as a bonus, how many points will the student get in total",
+      "answer": 210,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A restaurant is having a special deal where fifty percent of all meals are discounted, if a meal originally costs eighty dollars, how much will you pay for it during the deal",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A company is giving a fifty percent discount on a product that originally costs one hundred and twenty dollars, how much will you pay for the product during the discount",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookstore is having a sale where fifty percent of all books are discounted, if a book originally costs one hundred and twenty dollars, how much will you pay for it during the sale",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has one hundred and forty apples and he decides to give fifty percent of them to his neighbor, how many apples will the farmer give away",
+      "answer": 70,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A new video game costs one hundred and sixty dollars but it is on sale for fifty percent off, how much will you pay for the video game during the sale",
+      "answer": 80,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A gym is offering a fifty percent discount on their monthly membership which normally costs eighty dollars, how much will you pay per month with the discount",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A clothes store is having a clearance sale where fifty percent of all shoes are discounted, if a pair of shoes originally costs one hundred and forty dollars, how much will you pay for them during the sale",
+      "answer": 70,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A restaurant has a special deal where you get fifty percent off your total bill if you dine in during happy hour, if your bill comes out to be one hundred and twenty dollars, how much will you pay with the discount",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A student got one hundred and forty points on a test and the teacher announced that fifty percent of the points will be awarded as bonus, how many bonus points will the student get",
+      "answer": 70,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:pct:2": [
+    {
+      "text": "If a store is having a sale where everything is twenty five percent off and you buy a shirt that originally costs one hundred sixty dollars, how much will you pay for the shirt?",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bakery is having a promotion where they give seventy five percent of their daily bread production to a local food bank, if they produce two hundred forty loaves of bread in a day, how many loaves will they give away?",
+      "answer": 180,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are planning a party and you expect twenty five percent of the invited guests to bring a plus one, if you invite one hundred sixty guests, how many extra people should you prepare for?",
+      "answer": 40,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A car dealer is offering a discount of seventy five percent on a car that originally costs three hundred twenty dollars, how much will you pay for the car?",
+      "answer": 240,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a farmer harvests two hundred forty bushels of wheat and sells twenty five percent of it to a local mill, how many bushels of wheat does the farmer sell?",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are taking a road trip and your car gets seventy five percent of its original fuel efficiency when driving uphill, if your car normally gets two hundred forty miles per tank, how many miles can you drive uphill on a single tank?",
+      "answer": 180,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A clothing store has a clearance sale where everything is twenty five percent off, and you buy a pair of shoes that originally costs two hundred dollars, how much will you pay for the shoes?",
+      "answer": 50,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A restaurant owner wants to give seventy five percent of the day's profits to her employees as a bonus, if the restaurant makes two hundred eighty dollars in a day, how much will the employees receive?",
+      "answer": 210,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookstore is having a sale where twenty five percent of all books are discounted, if a book originally costs two hundred and forty dollars, how much will you pay for it during the sale",
+      "answer": 60,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has one hundred and sixty acres of land and seventy five percent of it is used for growing wheat, how many acres are used for wheat",
+      "answer": 120,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A company is having a meeting and twenty five percent of the employees are attending, if the company has two hundred and eighty employees, how many are at the meeting",
+      "answer": 70,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A person wants to save money for a trip and has seventy five percent of the total amount needed, if the total amount needed is three hundred and twenty dollars, how much does the person have",
+      "answer": 240,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A restaurant is offering a discount where twenty five percent of the total bill is taken off, if the total bill is one hundred and sixty dollars, how much will you pay after the discount",
+      "answer": 120,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A student scored seventy five percent on a test that had two hundred and forty questions, how many questions did the student answer correctly",
+      "answer": 180,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store is having a clearance sale where twenty five percent of all shoes are discounted, if a pair of shoes originally costs three hundred and twenty dollars, how much will you pay for it during the sale",
+      "answer": 80,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:pct:3": [
+    {
+      "text": "A bookstore is having a sale where everything is twenty percent off, if a cookbook originally costs sixty five dollars, how much will you save",
+      "answer": 13,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A water park is offering a ten percent discount on all tickets that cost one hundred and seventy five dollars, how much will you save on one ticket",
+      "answer": 18,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Twenty percent of the seats at a concert are reserved for special guests, if there are one hundred and twenty seats in total, how many are reserved for special guests",
+      "answer": 24,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A golf store is having a sale where all golf clubs are ten percent off, if a set of golf clubs originally costs one hundred and ninety dollars, how much will you save",
+      "answer": 19,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A restaurant is having a promotion where you get twenty percent off your total bill if you spend over fifty dollars, if your total bill comes out to be one hundred and forty dollars, how much will you save",
+      "answer": 28,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Ten percent of the students at a school are awarded a scholarship, if there are two hundred and thirty students in total, how many students are awarded a scholarship",
+      "answer": 23,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A clothing store is having a sale where everything is ten percent off, if a dress originally costs forty eight dollars, how much will you save",
+      "answer": 5,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Twenty percent of the rooms at a hotel are suites, if there are one hundred and eighty rooms in total, how many rooms are suites",
+      "answer": 36,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookstore is having a sale where everything is ten percent off, and you buy a novel that originally costs one hundred and forty dollars, how much discount will you get",
+      "answer": 14,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are the manager of a restaurant and you want to give your employees a twenty percent bonus on their paycheck of two hundred and ten dollars, how much is the bonus",
+      "answer": 42,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A travel agency is offering a ten percent discount on a vacation package that costs two hundred and forty dollars, what is the amount of the discount",
+      "answer": 24,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You invest one hundred and eighty dollars in a stock and it increases in value by twenty percent, how much is your gain",
+      "answer": 36,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A furniture store is having a sale where everything is ten percent off, and you buy a desk that originally costs one hundred and ninety dollars, how much will you save",
+      "answer": 19,
+      "timerSeconds": 25
+    },
+    {
+      "text": "You are planning a party and you want to tip the caterer twenty percent of the total bill of one hundred and fifty dollars, how much is the tip",
+      "answer": 30,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A car dealership is offering a ten percent discount on a car that costs two hundred and thirty dollars, what is the amount of the discount",
+      "answer": 23,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:pct:4": [
+    {
+      "text": "A bookstore is having a sale where everything is thirty five percent off the original price and you want to buy a book that originally costs sixty dollars, how much will you pay for the book after the discount",
+      "answer": 39,
+      "timerSeconds": 20
+    },
+    {
+      "text": "You are the manager of a restaurant and you want to give your employees a twenty five percent bonus on their sixty five dollar paycheck, how much will the bonus be",
+      "answer": 16,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A company is offering a forty percent discount on a new smartphone that originally costs eighty dollars, how much will you pay for the smartphone after the discount",
+      "answer": 48,
+      "timerSeconds": 20
+    },
+    {
+      "text": "You invested fifty dollars in a stock and it increased in value by seventy percent, how much is your investment worth now",
+      "answer": 135,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A clothing store is having a sale where everything is fifty percent off the original price and you want to buy a shirt that originally costs forty dollars, how much will you pay for the shirt after the discount",
+      "answer": 20,
+      "timerSeconds": 20
+    },
+    {
+      "text": "You are planning a trip and you found a hotel room that costs seventy five dollars per night, but there is a twenty percent discount for booking in advance, how much will you pay per night after the discount",
+      "answer": 60,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A car dealership is offering a sixty percent discount on a used car that originally costs ninety dollars, how much will you pay for the car after the discount",
+      "answer": 36,
+      "timerSeconds": 20
+    },
+    {
+      "text": "You want to buy a gift for your friend that costs twenty five dollars, but you have a coupon for thirty percent off, how much will you pay for the gift after the discount",
+      "answer": 17,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookstore is having a sale where everything is twenty five percent off, if a novel originally costs fifty dollars, how much will you pay for it during the sale",
+      "answer": 38,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A chef needs to prepare a sauce that requires sixty percent of seventy five grams of flour, how many grams of flour should the chef use",
+      "answer": 45,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A Cyclist completed seventy kilometers of a race, which is fifty percent of the total distance, what is the total distance of the race",
+      "answer": 140,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A new employee is offered a job with a salary of sixty five thousand dollars, and a fifteen percent bonus, how much will the bonus be",
+      "answer": 9750,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A person invested thirty percent of eighty thousand dollars in a stock, how much money did the person invest",
+      "answer": 24000,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A shoe store is having a clearance sale where all shoes are forty percent off, if a pair of shoes originally costs eighty five dollars, how much will you pay for it during the sale",
+      "answer": 51,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A restaurant is offering a twenty percent discount on all meals over fifty dollars, if a meal costs ninety five dollars, how much will you save",
+      "answer": 19,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:pct:5": [
+    {
+      "text": "A real estate agent earned a thirty percent commission on the sale of a ninety thousand dollar house, and she wants to divide the commission equally among her three assistants, how much will each assistant get",
+      "answer": 9000,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A furniture store is having a twenty percent off sale on a seventy five dollar desk, and if you buy the desk during the sale, you also have to pay an eight dollar delivery fee, how much will you pay in total for the desk",
+      "answer": 62,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A restaurant bill comes out to be forty two dollars, and you want to leave a fifteen percent tip, but you also have to pay a five dollar cover charge, and you are splitting the total cost with your friend, how much will each of you pay",
+      "answer": 28,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A clothing store is having a thirty five percent off sale on a one hundred twenty dollar jacket, and if you buy the jacket during the sale, you will also get a ten dollar gift card, how much will you pay for the jacket after the discount and the gift card",
+      "answer": 71,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company is giving a forty percent raise to an employee who currently makes sixty thousand dollars per year, and the employee will also get a five thousand dollar signing bonus, how much more will the employee make in total after the raise and the bonus",
+      "answer": 29000,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A traveler is booking a hotel room that costs one hundred thirty dollars per night, and there is a twenty percent tax on the room, but the traveler also has a twenty dollar coupon to use, and the traveler is staying for two nights, how much will the traveler pay in total for the two nights",
+      "answer": 260,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A contractor is bidding on a job that is estimated to cost forty five thousand dollars, and the contractor wants to add a twenty five percent profit margin to the bid, but the contractor also has to pay a two thousand dollar fee to the client, how much will the contractor bid on the job",
+      "answer": 11800,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A investor is buying a stock that costs thirty eight dollars per share, and the investor wants to buy one hundred shares, but there is a fifteen percent brokerage fee on the purchase, and the investor will also get a fifty dollar rebate on the fee, how much will the investor pay in total for the shares after the fee and the rebate",
+      "answer": 4030,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company is offering a thirty-five percent discount on a sixty-five dollar ticket to a concert, and if you buy two tickets, you have to pay an extra ten dollars in fees, how much will you pay in total for two tickets after the discount?",
+      "answer": 67,
+      "timerSeconds": 15
+    },
+    {
+      "text": "If a restaurant bill comes out to be one hundred and twenty dollars, and you want to leave a twenty percent tip, but you are splitting the bill four ways, how much will each person pay, including the tip?",
+      "answer": 36,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A store is having a forty percent off sale on a forty-dollar pair of shoes, and if you buy two pairs, you get an additional ten dollars off, how much will you pay in total for two pairs of shoes after the discounts?",
+      "answer": 36,
+      "timerSeconds": 15
+    },
+    {
+      "text": "You are planning a trip and find a hotel room that costs one hundred and thirty dollars per night, but there is a twenty-five percent discount for booking online, and you also have to pay a fifteen dollar parking fee per night, how much will you pay in total for one night after the discount?",
+      "answer": 104,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A friend borrowed one hundred and twenty dollars from you and wants to pay you back with a fifteen percent interest, but you are going to split the total amount with another friend, how much will each of you get if the total amount is split two ways?",
+      "answer": 69,
+      "timerSeconds": 15
+    },
+    {
+      "text": "You bought a gift that costs forty-five dollars, and you want to add a thirty percent gift wrap fee to it, but the tax rate is eight percent, and you want to know the total cost after adding the gift wrap fee and tax, how much will you pay in total?",
+      "answer": 63,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A gym membership costs ninety dollars per month, but there is a ten percent discount if you pay for six months upfront, and you also have to pay a twenty dollar registration fee, how much will you pay in total for six months after the discount?",
+      "answer": 518,
+      "timerSeconds": 15
+    }
+  ],
+  "situational:chain:1": [
+    {
+      "text": "If Tom has 7 boxes of cookies and he gives 3 boxes to his friend and then gets 5 more boxes, how many boxes of cookies does Tom have now minus 4 boxes he already ate",
+      "answer": 5,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has 8 books on it and 5 more books are added, then 3 books are removed, how many books are on the bookshelf",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Sarah has 9 pencils in her pencil case and she adds 4 more pencils, then she takes away 6 pencils, how many pencils does Sarah have left",
+      "answer": 7,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store has 6 crates of apples and they receive 7 more crates, then they sell 5 crates, how many crates of apples does the store have now",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Mark has 5 toy cars and his friend gives him 8 more toy cars, then Mark gives 4 toy cars to his brother, how many toy cars does Mark have now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A library has 8 tables with 3 chairs at each table and they add 5 more tables, then they remove 2 tables, how many tables are in the library now",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Emily has 9 stickers and she gets 6 more stickers, then she gives 5 stickers to her sister, how many stickers does Emily have left",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bakery has 7 trays of bread and they bake 5 more trays, then they sell 3 trays, how many trays of bread does the bakery have now",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Tom has 5 pencils in his pencil case, he adds 7 more pencils, then his sister takes 4 pencils, how many pencils does Tom have left",
+      "answer": 8,
+      "timerSeconds": 30
+    },
+    {
+      "text": "At the bakery, there are 8 cupcakes on the counter, 6 more cupcakes are added, then 5 cupcakes are sold, how many cupcakes are left",
+      "answer": 9,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has 9 books on it, 3 more books are placed on the shelf, then 6 books are removed, how many books are on the shelf now",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Sarah has 7 dollars in her wallet, she adds 8 dollars, then she spends 5 dollars on a toy, how many dollars does Sarah have left",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "There are 6 birds perched on a tree branch, 8 more birds land on the branch, then 4 birds fly away, how many birds are on the branch now",
+      "answer": 10,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A water bottle can hold 9 ounces of water, it already has 5 ounces of water in it, 7 more ounces of water are added, then 6 ounces of water are poured out, how many ounces of water are in the bottle now",
+      "answer": 6,
+      "timerSeconds": 30
+    },
+    {
+      "text": "At the farm, there are 8 chickens in the coop, 6 more chickens are added, then 3 chickens are taken away, how many chickens are in the coop now",
+      "answer": 11,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:chain:2": [
+    {
+      "text": "If you have three boxes of pens to pack into cartons and each box contains five packs of pens and you already have nine packs of pens to start with, how many packs of pens will you have in total to pack into cartons",
+      "answer": 24,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has five shelves and each shelf can hold four boxes of books and if you already have ten boxes of books to put away, how many boxes of books can you have in total",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A chef needs to prep six batches of cookie dough for a catering job and each batch requires three cups of sugar and she already has twelve cups of sugar on hand, how many cups of sugar will she have after buying more for the job",
+      "answer": 30,
+      "timerSeconds": 30
+    },
+    {
+      "text": "You are planning a road trip that requires driving two cars with four people in each car and you need to budget for snacks that cost eight dollars per person, how much will you spend on snacks for the entire group",
+      "answer": 64,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A store is having a sale on towels where you can buy three towels for a discounted price and if you already have eleven towels at home, how many towels will you have if you buy two sets of the discounted towels",
+      "answer": 17,
+      "timerSeconds": 30
+    },
+    {
+      "text": "If a person can eat two sandwiches for lunch and they make five lunches in advance and they already have seven sandwiches made, how many sandwiches will they have in total",
+      "answer": 17,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to go bowling and they need to rent five lanes with three balls per lane and if they already have thirteen balls to use, how many balls will they have in total for bowling",
+      "answer": 22,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer has four fields of wheat to harvest and each field yields five bushels of wheat and if the farmer already has nine bushels of wheat stored, how many bushels of wheat will the farmer have after harvesting all the fields",
+      "answer": 29,
+      "timerSeconds": 30
+    },
+    {
+      "text": "Tom has three boxes of cookies to sell at the bake sale, and each box contains five dozen cookies, if he already sold four dozen cookies, how many cookies does Tom have left to sell",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A bookshelf has five shelves, and each shelf can hold four boxes of books, if there are already nine boxes of books on the bookshelf, how many more boxes can be added",
+      "answer": 11,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A group of friends want to share some candy equally, if they have six bags of candy, and each bag contains three pounds of candy, and they already gave away five pounds of candy, how many pounds of candy can they share",
+      "answer": 13,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A farmer is harvesting wheat from his field, he has four sections of the field, and each section yields five baskets of wheat, if he has already collected seven baskets of wheat, how many baskets of wheat does the farmer have in total",
+      "answer": 17,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A teacher is preparing lesson plans for her class, she needs to make five copies of a worksheet, and each copy requires three sheets of paper, if she already has eight sheets of paper, how many sheets of paper does the teacher have in total",
+      "answer": 17,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A cyclist is training for a race, she rides six laps around the track, and each lap is four kilometers long, if she has already ridden nine kilometers, how many kilometers has the cyclist ridden in total",
+      "answer": 15,
+      "timerSeconds": 30
+    },
+    {
+      "text": "A chef is making a recipe that requires five cups of flour, and each cup of flour needs to be mixed with two cups of sugar, if the chef already has eleven cups of sugar, how many cups of sugar does the chef have in total",
+      "answer": 15,
+      "timerSeconds": 30
+    }
+  ],
+  "situational:chain:3": [
+    {
+      "text": "If a bookstore has forty eight books on a shelf and they remove twelve books to make room for new arrivals, how many books are left on the shelf after they add twenty more books",
+      "answer": 56,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A chef needs to package three hundred and sixty cookies into boxes that hold eighteen cookies each, and then she needs to add seven more boxes to the shipment, how many cookies will the chef package in total",
+      "answer": 378,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to share some money they found, if they have one hundred and twenty dollars and they give thirty two dollars to a charity, how much money will they have left after they divide the remaining money equally among nine friends",
+      "answer": 9,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A teacher has one hundred and eighty stickers to give to her students, and she gives fifteen stickers to each of her eight students, and then she buys thirty more stickers, how many stickers will the teacher have left in total",
+      "answer": 30,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A person is planning a road trip that is two hundred and seventy miles long, and they want to drive at a speed of thirty five miles per hour, and they will take a thirty minute break, how many hours will the trip take in total if they drive for four hours before taking the break",
+      "answer": 7,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A company has ninety six employees and they hire eight new employees every month for three months, how many employees will the company have in total after the three months",
+      "answer": 120,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A person has two hundred and fifty dollars in their account and they withdraw fifty dollars to buy a gift, and then they deposit twenty five dollars, how much money will they have left in their account after they spend thirty two dollars on a dinner",
+      "answer": 193,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A farmer has one hundred and twenty five kilograms of wheat and he sells forty five kilograms to a customer, and then he buys thirty kilograms more wheat, how many kilograms of wheat will the farmer have left in total",
+      "answer": 110,
+      "timerSeconds": 25
+    },
+    {
+      "text": "Tom has been saving money for a new bike and has thirty five dollars in his piggy bank. He wants to buy a bike that costs eighty seven dollars. If he mows lawns for eight dollars per lawn, how many lawns does he need to mow to have enough money for the bike?",
+      "answer": 13,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bookshelf has five shelves and each shelf can hold nine boxes of books. If the bookshelf is currently empty, how many boxes of books can be placed on it in total?",
+      "answer": 45,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A bakery is making a special batch of cookies for a holiday sale. They need to package forty eight cookies into boxes that hold six cookies each. How many boxes can they fill with the cookies they have?",
+      "answer": 8,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A group of friends want to share some candy equally. If they have forty two pieces of candy and there are seven friends, how many pieces of candy will each friend get?",
+      "answer": 6,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A water tank can hold sixty five gallons of water. If thirty seven gallons of water are already in the tank, how many more gallons can be added to fill the tank?",
+      "answer": 28,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A person is planning a road trip that is two hundred sixty five miles long. If they want to drive at a rate of forty five miles per hour, how many hours will the trip take?",
+      "answer": 6,
+      "timerSeconds": 25
+    },
+    {
+      "text": "A store is having a sale on shirts. A shirt that originally costs fifty dollars is on sale for twenty percent off. How much will the shirt cost during the sale?",
+      "answer": 40,
+      "timerSeconds": 25
+    }
+  ],
+  "situational:chain:4": [
+    {
+      "text": "If a bakery sells forty eight cupcakes at seven dollars each and they need to pay twelve dollars in delivery fees, how much money will the bakery have after paying for delivery",
+      "answer": 324,
+      "timerSeconds": 20
+    },
+    {
+      "text": "Tom has ninety two boxes of cookies to sell at the market, he already sold eighteen boxes and each box has eight cookies that he wants to package in bags of four, how many bags can he make with the remaining cookies",
+      "answer": 56,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A group of friends want to split a bill of seventy three dollars, if they give the waiter a twenty five percent tip and there are seven people in the group, how much will each person pay",
+      "answer": 23,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A water tank can hold sixty five thousand gallons of water, if thirty two thousand gallons are already in the tank and eight thousand gallons are added every day for four days, how many gallons of water will be in the tank after four days",
+      "answer": 72,
+      "timerSeconds": 20
+    },
+    {
+      "text": "If a car rental company charges forty five dollars per day to rent a car and a customer rents a car for nine days, but the company gives a ten percent discount for long term rentals, how much will the customer pay in total",
+      "answer": 363,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookshelf has five shelves, and each shelf can hold twenty five books, if the bookshelf is currently empty and a librarian wants to put eighty seven books on it, how many books will be left over after filling the bookshelf",
+      "answer": 62,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A cyclist is training for a race and wants to ride sixty eight miles per day for five days, but she also wants to ride an extra twelve miles on the last day, how many miles will she ride in total",
+      "answer": 92,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A restaurant is having a sale on burgers, and they are offering a discount of fifteen percent on all orders over fifty dollars, if a customer orders sixty two dollars worth of burgers, how much will they pay after the discount",
+      "answer": 53,
+      "timerSeconds": 20
+    },
+    {
+      "text": "Tom has been saving money for a new bike and has twenty five dollars in his piggy bank. He wants to buy a bike that costs sixty dollars. His grandmother gives him thirty five dollars for his birthday. How much more money does Tom need to buy the bike after his grandmother's gift",
+      "answer": 0,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bookshelf has five shelves and each shelf can hold seven boxes. If the bookshelf is currently empty, how many boxes can be placed on it in total",
+      "answer": 35,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A bakery sells forty eight cupcakes in the morning and seventy two cupcakes in the afternoon. They have to package the cupcakes in boxes that hold twelve cupcakes each. How many boxes are needed to package all the cupcakes sold",
+      "answer": 10,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A group of friends want to share some candy equally. If they have sixty eight pieces of candy and there are four friends, how many pieces of candy will each friend get",
+      "answer": 17,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A water tank can hold fifty gallons of water. If twenty gallons of water are already in the tank and fifteen more gallons are added, how many more gallons can be added to the tank",
+      "answer": 15,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A student has ninety five dollars to spend on school supplies. She buys a backpack for twenty seven dollars and a set of pens for eight dollars. How much money does the student have left",
+      "answer": 60,
+      "timerSeconds": 20
+    },
+    {
+      "text": "A car travels twenty two miles in the city and thirty eight miles on the highway. If the car uses twelve miles per gallon of gas in the city and fifteen miles per gallon of gas on the highway, and gas costs three dollars per gallon, how much did the car owner spend on gas for the city part of the trip plus the highway part of the trip if the car uses the respective mileage for each part",
+      "answer": 30,
+      "timerSeconds": 20
+    }
+  ],
+  "situational:chain:5": [
+    {
+      "text": "A bookstore is having a sale where everything is twenty five percent off, and a customer buys a book that originally costs sixty dollars, then the customer also buys a bookmark for five dollars, how much will the customer pay in total for the book and the bookmark",
+      "answer": 45,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A restaurant is having a special promotion where customers get fifteen percent off their meal, and a group of friends order a meal that originally costs one hundred twenty dollars, then they also leave a ten dollar tip, how much will the group pay in total for the meal and the tip",
+      "answer": 118,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person is planning a road trip and wants to budget for gas, they estimate that they will use twenty percent of their one hundred fifty dollar gas budget for the first day of driving, then they will also spend twelve dollars on snacks, how much will they have left in their gas budget after the first day",
+      "answer": 118,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company is having a meeting and they need to order catering for their employees, the catering company charges thirty five dollars per person and they expect twenty five percent of the employees to attend, if there are one hundred employees, then they also need to pay a twenty dollar delivery fee, how much will the company pay in total for the catering and delivery",
+      "answer": 955,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person is shopping online and finds a shirt that they want to buy, the shirt originally costs forty five dollars, but it is on sale for twenty percent off, then they also need to pay eight dollars for shipping, how much will the person pay in total for the shirt and shipping",
+      "answer": 37,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A group of friends want to go to a concert and they need to buy tickets, the tickets originally cost seventy five dollars each, but they are able to get twenty five percent off, then they also need to pay a fifteen dollar service fee, how much will each person pay in total for their ticket and the service fee",
+      "answer": 58,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person is planning a party and they need to order food and drinks, they estimate that they will spend thirty percent of their one hundred dollar food budget on appetizers, then they will also spend eighteen dollars on decorations, how much will they have left in their food budget after buying the appetizers and decorations",
+      "answer": 52,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A company is having a sale where everything is ten percent off, and a customer buys a TV that originally costs one hundred thirty dollars, then the customer also buys a warranty for twenty dollars, how much will the customer pay in total for the TV and the warranty",
+      "answer": 131,
+      "timerSeconds": 15
+    },
+    {
+      "text": "If a travel agent gives a fifteen percent discount on a hotel room that costs one hundred twenty dollars and the customer has to pay an eight dollar service fee, how much will the customer pay in total",
+      "answer": 106,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A restaurant is having a special promotion where they are offering twenty percent off all orders over fifty dollars, if a customer orders food worth one hundred ten dollars and has to pay a twelve dollar delivery fee, how much will the customer pay in total",
+      "answer": 90,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A store is having a sale where they are offering twenty five percent off all shoes, if a pair of shoes originally costs one hundred thirty five dollars and the customer has to pay a seven dollar sales tax, how much will the customer pay in total",
+      "answer": 104,
+      "timerSeconds": 15
+    },
+    {
+      "text": "If a person wants to buy a ticket to a concert that costs forty eight dollars and the ticket website charges a twenty percent service fee plus a five dollar payment processing fee, how much will the person pay in total",
+      "answer": 57,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A gym is offering a ten percent discount on their monthly membership which costs sixty dollars, if a customer signs up for a year and has to pay a twenty five dollar registration fee, how much will the customer pay in total for the first year",
+      "answer": 635,
+      "timerSeconds": 15
+    },
+    {
+      "text": "A person is buying a phone that costs one hundred forty dollars and the store is offering a fifteen percent discount, plus the customer has to pay a ten dollar activation fee, how much will the customer pay in total",
+      "answer": 127,
+      "timerSeconds": 15
+    },
+    {
+      "text": "If a customer orders food worth one hundred dollars from a restaurant that charges a twenty percent tip, and the customer also has to pay a four dollar delivery fee, how much will the customer pay in total",
+      "answer": 124,
+      "timerSeconds": 15
+    }
+  ]
+}
